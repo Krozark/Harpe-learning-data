@@ -1,0 +1,690 @@
+Row,User Flag,OK,Cmpd.,m/z meas.,Mr calc.,z,? m/z [ppm],RMS90 [ppm],Rt [min],Scores,#Cmpds.,Site [%],Rank,P,Sequence,Modifications,Type,Range,Accession,Protein
+1,,true,110,404.2023,806.3923,2,-2.77,2.69,18.43,40.0 (M:40.0),20,,1,0,R.LAADDFR.T,,CID,195 - 201,P02533|K1C14_HUMAN,"Keratin, type I cytoskeletal 14 - Homo sapiens"
+2,,true,110,404.2023,806.3923,2,-2.77,2.69,18.43,40.0 (M:40.0),20,,1,0,R.LAADDFR.L,,CID,229 - 235,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+3,,true,109,404.2024,806.3923,2,-2.42,4.74,18.40,51.4 (M:51.4),20,,1,0,R.LAADDFR.T,,CID,195 - 201,P02533|K1C14_HUMAN,"Keratin, type I cytoskeletal 14 - Homo sapiens"
+4,,true,109,404.2024,806.3923,2,-2.42,4.74,18.40,51.4 (M:51.4),20,,1,0,R.LAADDFR.L,,CID,229 - 235,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+5,,true,123,404.2028,806.3923,2,-1.61,4.23,18.95,29.9 (M:29.9),20,,1,0,R.LAADDFR.T,,CID,195 - 201,P02533|K1C14_HUMAN,"Keratin, type I cytoskeletal 14 - Homo sapiens"
+6,,true,123,404.2028,806.3923,2,-1.61,4.23,18.95,29.9 (M:29.9),20,,1,0,R.LAADDFR.L,,CID,229 - 235,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+7,,true,101,404.2028,806.3923,2,-1.48,2.97,18.13,54.6 (M:54.6),20,,1,0,R.LAADDFR.L,,CID,229 - 235,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+8,,true,102,404.2028,806.3923,2,-1.48,6.89,18.17,49.8 (M:49.8),20,,1,0,R.LAADDFR.L,,CID,229 - 235,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+9,,true,101,404.2028,806.3923,2,-1.48,2.97,18.13,54.6 (M:54.6),20,,1,0,R.LAADDFR.T,,CID,195 - 201,P02533|K1C14_HUMAN,"Keratin, type I cytoskeletal 14 - Homo sapiens"
+10,,true,102,404.2028,806.3923,2,-1.48,6.89,18.17,49.8 (M:49.8),20,,1,0,R.LAADDFR.T,,CID,195 - 201,P02533|K1C14_HUMAN,"Keratin, type I cytoskeletal 14 - Homo sapiens"
+11,,true,93,404.2029,806.3923,2,-1.39,10.49,17.88,52.6 (M:52.6),20,,1,0,R.LAADDFR.T,,CID,195 - 201,P02533|K1C14_HUMAN,"Keratin, type I cytoskeletal 14 - Homo sapiens"
+12,,true,93,404.2029,806.3923,2,-1.39,10.49,17.88,52.6 (M:52.6),20,,1,0,R.LAADDFR.L,,CID,229 - 235,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+13,,true,126,404.2029,806.3923,2,-1.39,6.37,19.17,29.8 (M:29.8),20,,1,0,R.LAADDFR.T,,CID,195 - 201,P02533|K1C14_HUMAN,"Keratin, type I cytoskeletal 14 - Homo sapiens"
+14,,true,126,404.2029,806.3923,2,-1.39,6.37,19.17,29.8 (M:29.8),20,,1,0,R.LAADDFR.L,,CID,229 - 235,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+15,,true,65,404.2030,806.3923,2,-0.92,5.23,16.87,47.0 (M:47.0),20,,1,0,R.LAADDFR.T,,CID,195 - 201,P02533|K1C14_HUMAN,"Keratin, type I cytoskeletal 14 - Homo sapiens"
+16,,true,65,404.2030,806.3923,2,-0.92,5.23,16.87,47.0 (M:47.0),20,,1,0,R.LAADDFR.L,,CID,229 - 235,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+17,,true,66,404.2030,806.3923,2,-0.92,4.08,16.90,49.2 (M:49.2),20,,1,0,R.LAADDFR.L,,CID,229 - 235,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+18,,true,66,404.2030,806.3923,2,-0.92,4.08,16.90,49.2 (M:49.2),20,,1,0,R.LAADDFR.T,,CID,195 - 201,P02533|K1C14_HUMAN,"Keratin, type I cytoskeletal 14 - Homo sapiens"
+19,,true,116,404.2031,806.3923,2,-0.69,3.26,18.65,31.0 (M:31.0),20,,1,0,R.LAADDFR.L,,CID,229 - 235,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+20,,true,116,404.2031,806.3923,2,-0.69,3.26,18.65,31.0 (M:31.0),20,,1,0,R.LAADDFR.T,,CID,195 - 201,P02533|K1C14_HUMAN,"Keratin, type I cytoskeletal 14 - Homo sapiens"
+21,,true,76,404.2032,806.3923,2,-0.64,2.66,17.15,55.1 (M:55.1),20,,1,0,R.LAADDFR.L,,CID,229 - 235,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+22,,true,75,404.2032,806.3923,2,-0.64,2.21,17.12,52.5 (M:52.5),20,,1,0,R.LAADDFR.L,,CID,229 - 235,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+23,,true,76,404.2032,806.3923,2,-0.64,2.66,17.15,55.1 (M:55.1),20,,1,0,R.LAADDFR.T,,CID,195 - 201,P02533|K1C14_HUMAN,"Keratin, type I cytoskeletal 14 - Homo sapiens"
+24,,true,75,404.2032,806.3923,2,-0.64,2.21,17.12,52.5 (M:52.5),20,,1,0,R.LAADDFR.T,,CID,195 - 201,P02533|K1C14_HUMAN,"Keratin, type I cytoskeletal 14 - Homo sapiens"
+25,,true,81,404.2032,806.3923,2,-0.52,3.18,17.37,43.9 (M:43.9),20,,1,0,R.LAADDFR.L,,CID,229 - 235,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+26,,true,81,404.2032,806.3923,2,-0.52,3.18,17.37,43.9 (M:43.9),20,,1,0,R.LAADDFR.T,,CID,195 - 201,P02533|K1C14_HUMAN,"Keratin, type I cytoskeletal 14 - Homo sapiens"
+27,,true,82,404.2033,806.3923,2,-0.30,5.46,17.40,50.0 (M:50.0),20,,1,0,R.LAADDFR.L,,CID,229 - 235,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+28,,true,82,404.2033,806.3923,2,-0.30,5.46,17.40,50.0 (M:50.0),20,,1,0,R.LAADDFR.T,,CID,195 - 201,P02533|K1C14_HUMAN,"Keratin, type I cytoskeletal 14 - Homo sapiens"
+29,,true,94,404.2033,806.3923,2,-0.30,5.55,17.90,49.9 (M:49.9),20,,1,0,R.LAADDFR.T,,CID,195 - 201,P02533|K1C14_HUMAN,"Keratin, type I cytoskeletal 14 - Homo sapiens"
+30,,true,94,404.2033,806.3923,2,-0.30,5.55,17.90,49.9 (M:49.9),20,,1,0,R.LAADDFR.L,,CID,229 - 235,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+31,,true,87,404.2036,806.3923,2,0.42,3.12,17.62,52.4 (M:52.4),20,,1,0,R.LAADDFR.L,,CID,229 - 235,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+32,,true,88,404.2036,806.3923,2,0.42,6.04,17.65,52.4 (M:52.4),20,,1,0,R.LAADDFR.T,,CID,195 - 201,P02533|K1C14_HUMAN,"Keratin, type I cytoskeletal 14 - Homo sapiens"
+33,,true,87,404.2036,806.3923,2,0.42,3.12,17.62,52.4 (M:52.4),20,,1,0,R.LAADDFR.T,,CID,195 - 201,P02533|K1C14_HUMAN,"Keratin, type I cytoskeletal 14 - Homo sapiens"
+34,,true,88,404.2036,806.3923,2,0.42,6.04,17.65,52.4 (M:52.4),20,,1,0,R.LAADDFR.L,,CID,229 - 235,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+35,,true,122,404.2039,806.3923,2,1.19,2.67,18.92,36.1 (M:36.1),20,,1,0,R.LAADDFR.L,,CID,229 - 235,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+36,,true,122,404.2039,806.3923,2,1.19,2.67,18.92,36.1 (M:36.1),20,,1,0,R.LAADDFR.T,,CID,195 - 201,P02533|K1C14_HUMAN,"Keratin, type I cytoskeletal 14 - Homo sapiens"
+37,,true,127,404.2049,806.3923,2,3.66,6.64,19.22,37.3 (M:37.3),20,,1,0,R.LAADDFR.L,,CID,229 - 235,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+38,,true,127,404.2049,806.3923,2,3.66,6.64,19.22,37.3 (M:37.3),20,,1,0,R.LAADDFR.T,,CID,195 - 201,P02533|K1C14_HUMAN,"Keratin, type I cytoskeletal 14 - Homo sapiens"
+39,,true,118,404.2053,806.3923,2,4.60,10.51,18.68,42.2 (M:42.2),20,,1,0,R.LAADDFR.T,,CID,195 - 201,P02533|K1C14_HUMAN,"Keratin, type I cytoskeletal 14 - Homo sapiens"
+40,,true,118,404.2053,806.3923,2,4.60,10.51,18.68,42.2 (M:42.2),20,,1,0,R.LAADDFR.L,,CID,229 - 235,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+41,,true,59,405.2235,808.4331,2,-0.67,7.90,16.73,37.3 (M:37.3),10,,1,0,R.LASYLDK.V,,CID,164 - 170,P35527|K1C9_HUMAN,"Keratin, type I cytoskeletal 9 - Homo sapiens"
+42,,true,59,405.2235,808.4331,2,-0.67,7.90,16.73,37.3 (M:37.3),10,,1,0,R.LASYLDK.V,,CID,157 - 163,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+43,,true,59,405.2235,808.4331,2,-0.67,7.90,16.73,37.3 (M:37.3),10,,1,0,R.LASYLDK.V,,CID,126 - 132,P02533|K1C14_HUMAN,"Keratin, type I cytoskeletal 14 - Homo sapiens"
+44,,true,34,405.2236,808.4331,2,-0.57,3.28,16.22,37.9 (M:37.9),10,,1,0,R.LASYLDK.V,,CID,126 - 132,P02533|K1C14_HUMAN,"Keratin, type I cytoskeletal 14 - Homo sapiens"
+45,,true,34,405.2236,808.4331,2,-0.57,3.28,16.22,37.9 (M:37.9),10,,1,0,R.LASYLDK.V,,CID,157 - 163,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+46,,true,34,405.2236,808.4331,2,-0.57,3.28,16.22,37.9 (M:37.9),10,,1,0,R.LASYLDK.V,,CID,164 - 170,P35527|K1C9_HUMAN,"Keratin, type I cytoskeletal 9 - Homo sapiens"
+47,,true,46,405.2236,808.4331,2,-0.50,2.16,16.48,36.3 (M:36.3),10,,1,0,R.LASYLDK.V,,CID,157 - 163,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+48,,true,46,405.2236,808.4331,2,-0.50,2.16,16.48,36.3 (M:36.3),10,,1,0,R.LASYLDK.V,,CID,164 - 170,P35527|K1C9_HUMAN,"Keratin, type I cytoskeletal 9 - Homo sapiens"
+49,,true,46,405.2236,808.4331,2,-0.50,2.16,16.48,36.3 (M:36.3),10,,1,0,R.LASYLDK.V,,CID,126 - 132,P02533|K1C14_HUMAN,"Keratin, type I cytoskeletal 14 - Homo sapiens"
+50,,true,61,405.2237,808.4331,2,-0.37,5.94,16.77,38.7 (M:38.7),10,,1,0,R.LASYLDK.V,,CID,164 - 170,P35527|K1C9_HUMAN,"Keratin, type I cytoskeletal 9 - Homo sapiens"
+51,,true,61,405.2237,808.4331,2,-0.37,5.94,16.77,38.7 (M:38.7),10,,1,0,R.LASYLDK.V,,CID,157 - 163,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+52,,true,61,405.2237,808.4331,2,-0.37,5.94,16.77,38.7 (M:38.7),10,,1,0,R.LASYLDK.V,,CID,126 - 132,P02533|K1C14_HUMAN,"Keratin, type I cytoskeletal 14 - Homo sapiens"
+53,,true,37,405.2237,808.4331,2,-0.20,8.61,16.28,33.6 (M:33.6),10,,1,0,R.LASYLDK.V,,CID,126 - 132,P02533|K1C14_HUMAN,"Keratin, type I cytoskeletal 14 - Homo sapiens"
+54,,true,37,405.2237,808.4331,2,-0.20,8.61,16.28,33.6 (M:33.6),10,,1,0,R.LASYLDK.V,,CID,164 - 170,P35527|K1C9_HUMAN,"Keratin, type I cytoskeletal 9 - Homo sapiens"
+55,,true,37,405.2237,808.4331,2,-0.20,8.61,16.28,33.6 (M:33.6),10,,1,0,R.LASYLDK.V,,CID,157 - 163,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+56,,true,48,405.2238,808.4331,2,-0.13,5.54,16.50,42.5 (M:42.5),10,,1,0,R.LASYLDK.V,,CID,157 - 163,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+57,,true,48,405.2238,808.4331,2,-0.13,5.54,16.50,42.5 (M:42.5),10,,1,0,R.LASYLDK.V,,CID,164 - 170,P35527|K1C9_HUMAN,"Keratin, type I cytoskeletal 9 - Homo sapiens"
+58,,true,48,405.2238,808.4331,2,-0.13,5.54,16.50,42.5 (M:42.5),10,,1,0,R.LASYLDK.V,,CID,126 - 132,P02533|K1C14_HUMAN,"Keratin, type I cytoskeletal 14 - Homo sapiens"
+59,,true,71,405.2238,808.4331,2,-0.05,7.31,17.02,25.3 (M:25.3),10,,1,0,R.LASYLDK.V,,CID,126 - 132,P02533|K1C14_HUMAN,"Keratin, type I cytoskeletal 14 - Homo sapiens"
+60,,true,71,405.2238,808.4331,2,-0.05,7.31,17.02,25.3 (M:25.3),10,,1,0,R.LASYLDK.V,,CID,157 - 163,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+61,,true,71,405.2238,808.4331,2,-0.05,7.31,17.02,25.3 (M:25.3),10,,1,0,R.LASYLDK.V,,CID,164 - 170,P35527|K1C9_HUMAN,"Keratin, type I cytoskeletal 9 - Homo sapiens"
+62,,true,69,405.2239,808.4331,2,0.27,4.35,16.98,26.0 (M:26.0),10,,1,0,R.LASYLDK.V,,CID,164 - 170,P35527|K1C9_HUMAN,"Keratin, type I cytoskeletal 9 - Homo sapiens"
+63,,true,69,405.2239,808.4331,2,0.27,4.35,16.98,26.0 (M:26.0),10,,1,0,R.LASYLDK.V,,CID,157 - 163,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+64,,true,69,405.2239,808.4331,2,0.27,4.35,16.98,26.0 (M:26.0),10,,1,0,R.LASYLDK.V,,CID,126 - 132,P02533|K1C14_HUMAN,"Keratin, type I cytoskeletal 14 - Homo sapiens"
+65,,true,24,405.2250,808.4331,2,2.93,4.72,15.97,24.2 (M:24.2),10,,1,0,R.LASYLDK.V,,CID,157 - 163,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+66,,true,24,405.2250,808.4331,2,2.93,4.72,15.97,24.2 (M:24.2),10,,1,0,R.LASYLDK.V,,CID,164 - 170,P35527|K1C9_HUMAN,"Keratin, type I cytoskeletal 9 - Homo sapiens"
+67,,true,24,405.2250,808.4331,2,2.93,4.72,15.97,24.2 (M:24.2),10,,1,0,R.LASYLDK.V,,CID,126 - 132,P02533|K1C14_HUMAN,"Keratin, type I cytoskeletal 14 - Homo sapiens"
+68,,true,25,405.2253,808.4331,2,3.62,1.65,15.98,23.0 (M:23.0),10,,1,0,R.LASYLDK.V,,CID,126 - 132,P02533|K1C14_HUMAN,"Keratin, type I cytoskeletal 14 - Homo sapiens"
+69,,true,25,405.2253,808.4331,2,3.62,1.65,15.98,23.0 (M:23.0),10,,1,0,R.LASYLDK.V,,CID,157 - 163,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+70,,true,25,405.2253,808.4331,2,3.62,1.65,15.98,23.0 (M:23.0),10,,1,0,R.LASYLDK.V,,CID,164 - 170,P35527|K1C9_HUMAN,"Keratin, type I cytoskeletal 9 - Homo sapiens"
+71,,true,170,416.2507,830.4862,2,0.77,26.06,20.70,32.5 (M:32.5),1,,1,0,R.SLVGLGGTK.S,,CID,62 - 70,P35908|K22E_HUMAN,"Keratin, type II cytoskeletal 2 epidermal - Homo sapiens"
+72,,true,1640,416.7470,831.4814,2,-2.27,17.80,24.58,22.9 (M:22.9),2,,1,0,K.SISISVAR.G,,CID,75 - 82,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+73,,true,1675,416.7486,831.4814,2,1.43,37.38,24.65,24.1 (M:24.1),2,,1,0,K.SISISVAR.G,,CID,75 - 82,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+74,,true,4182,421.7523,841.5022,2,-14.42,29.80,30.65,23.5 (M:23.5),67,,1,0,R.VATVSLPR.S,,CID,108 - 115,P00761|TRYP_PIG,Trypsin precursor - Sus scrofa
+75,,true,4160,421.7523,841.5022,2,-14.40,39.80,30.62,30.6 (M:30.6),67,,1,0,R.VATVSLPR.S,,CID,108 - 115,P00761|TRYP_PIG,Trypsin precursor - Sus scrofa
+76,,true,4440,421.7523,841.5022,2,-14.30,34.08,31.13,29.9 (M:29.9),67,,1,0,R.VATVSLPR.S,,CID,108 - 115,P00761|TRYP_PIG,Trypsin precursor - Sus scrofa
+77,,true,4041,421.7551,841.5022,2,-7.78,35.91,30.38,21.5 (M:21.5),67,,1,0,R.VATVSLPR.S,,CID,108 - 115,P00761|TRYP_PIG,Trypsin precursor - Sus scrofa
+78,,true,3016,421.7576,841.5022,2,-1.78,10.70,28.07,52.7 (M:52.7),67,,1,0,R.VATVSLPR.S,,CID,108 - 115,P00761|TRYP_PIG,Trypsin precursor - Sus scrofa
+79,,true,3031,421.7578,841.5022,2,-1.31,19.14,28.12,30.2 (M:30.2),67,,1,0,R.VATVSLPR.S,,CID,108 - 115,P00761|TRYP_PIG,Trypsin precursor - Sus scrofa
+80,,true,141,421.7581,841.5022,2,-0.69,8.11,20.08,54.2 (M:54.2),67,,1,0,R.VATVSLPR.S,,CID,108 - 115,P00761|TRYP_PIG,Trypsin precursor - Sus scrofa
+81,,true,150,421.7581,841.5022,2,-0.69,5.91,20.32,62.3 (M:62.3),67,,1,0,R.VATVSLPR.S,,CID,108 - 115,P00761|TRYP_PIG,Trypsin precursor - Sus scrofa
+82,,true,162,421.7581,841.5022,2,-0.50,3.14,20.58,60.4 (M:60.4),67,,1,0,R.VATVSLPR.S,,CID,108 - 115,P00761|TRYP_PIG,Trypsin precursor - Sus scrofa
+83,,true,165,421.7582,841.5022,2,-0.46,4.59,20.62,57.2 (M:57.2),67,,1,0,R.VATVSLPR.S,,CID,108 - 115,P00761|TRYP_PIG,Trypsin precursor - Sus scrofa
+84,,true,140,421.7582,841.5022,2,-0.46,5.10,20.07,54.0 (M:54.0),67,,1,0,R.VATVSLPR.S,,CID,108 - 115,P00761|TRYP_PIG,Trypsin precursor - Sus scrofa
+85,,true,151,421.7582,841.5022,2,-0.31,3.34,20.33,68.1 (M:68.1),67,,1,0,R.VATVSLPR.S,,CID,108 - 115,P00761|TRYP_PIG,Trypsin precursor - Sus scrofa
+86,,true,2697,421.7583,841.5022,2,-0.15,12.09,27.05,54.0 (M:54.0),67,,1,0,R.VATVSLPR.S,,CID,108 - 115,P00761|TRYP_PIG,Trypsin precursor - Sus scrofa
+87,,true,2689,421.7583,841.5022,2,-0.15,5.29,27.02,54.2 (M:54.2),67,,1,0,R.VATVSLPR.S,,CID,108 - 115,P00761|TRYP_PIG,Trypsin precursor - Sus scrofa
+88,,true,2613,421.7584,841.5022,2,0.11,9.34,26.80,54.1 (M:54.1),67,,1,0,R.VATVSLPR.S,,CID,108 - 115,P00761|TRYP_PIG,Trypsin precursor - Sus scrofa
+89,,true,2950,421.7584,841.5022,2,0.21,18.59,27.87,47.7 (M:47.7),67,,1,0,R.VATVSLPR.S,,CID,108 - 115,P00761|TRYP_PIG,Trypsin precursor - Sus scrofa
+90,,true,2414,421.7585,841.5022,2,0.44,6.83,26.27,54.7 (M:54.7),67,,1,0,R.VATVSLPR.S,,CID,108 - 115,P00761|TRYP_PIG,Trypsin precursor - Sus scrofa
+91,,true,2407,421.7585,841.5022,2,0.44,6.66,26.23,56.8 (M:56.8),67,,1,0,R.VATVSLPR.S,,CID,108 - 115,P00761|TRYP_PIG,Trypsin precursor - Sus scrofa
+92,,true,2603,421.7586,841.5022,2,0.54,5.02,26.77,49.8 (M:49.8),67,,1,0,R.VATVSLPR.S,,CID,108 - 115,P00761|TRYP_PIG,Trypsin precursor - Sus scrofa
+93,,true,2839,421.7587,841.5022,2,0.71,10.07,27.55,38.8 (M:38.8),67,,1,0,R.VATVSLPR.S,,CID,108 - 115,P00761|TRYP_PIG,Trypsin precursor - Sus scrofa
+94,,true,2852,421.7587,841.5022,2,0.71,10.34,27.58,42.8 (M:42.8),67,,1,0,R.VATVSLPR.S,,CID,108 - 115,P00761|TRYP_PIG,Trypsin precursor - Sus scrofa
+95,,true,2499,421.7587,841.5022,2,0.73,7.93,26.52,54.3 (M:54.3),67,,1,0,R.VATVSLPR.S,,CID,108 - 115,P00761|TRYP_PIG,Trypsin precursor - Sus scrofa
+96,,true,2929,421.7587,841.5022,2,0.73,3.98,27.80,48.6 (M:48.6),67,,1,0,R.VATVSLPR.S,,CID,108 - 115,P00761|TRYP_PIG,Trypsin precursor - Sus scrofa
+97,,true,2780,421.7587,841.5022,2,0.75,8.80,27.30,54.0 (M:54.0),67,,1,0,R.VATVSLPR.S,,CID,108 - 115,P00761|TRYP_PIG,Trypsin precursor - Sus scrofa
+98,,true,2774,421.7587,841.5022,2,0.75,12.28,27.28,51.1 (M:51.1),67,,1,0,R.VATVSLPR.S,,CID,108 - 115,P00761|TRYP_PIG,Trypsin precursor - Sus scrofa
+99,,true,1947,421.7587,841.5022,2,0.87,6.70,25.20,54.3 (M:54.3),67,,1,0,R.VATVSLPR.S,,CID,108 - 115,P00761|TRYP_PIG,Trypsin precursor - Sus scrofa
+100,,true,1963,421.7587,841.5022,2,0.87,4.38,25.23,61.0 (M:61.0),67,,1,0,R.VATVSLPR.S,,CID,108 - 115,P00761|TRYP_PIG,Trypsin precursor - Sus scrofa
+101,,true,546,421.7588,841.5022,2,0.99,4.13,22.75,56.8 (M:56.8),67,,1,0,R.VATVSLPR.S,,CID,108 - 115,P00761|TRYP_PIG,Trypsin precursor - Sus scrofa
+102,,true,2508,421.7588,841.5022,2,1.04,15.41,26.55,48.9 (M:48.9),67,,1,0,R.VATVSLPR.S,,CID,108 - 115,P00761|TRYP_PIG,Trypsin precursor - Sus scrofa
+103,,true,211,421.7588,841.5022,2,1.08,4.02,21.37,62.3 (M:62.3),67,,1,0,R.VATVSLPR.S,,CID,108 - 115,P00761|TRYP_PIG,Trypsin precursor - Sus scrofa
+104,,true,525,421.7588,841.5022,2,1.11,5.90,22.72,68.2 (M:68.2),67,,1,0,R.VATVSLPR.S,,CID,108 - 115,P00761|TRYP_PIG,Trypsin precursor - Sus scrofa
+105,,true,273,421.7588,841.5022,2,1.11,3.67,21.95,60.5 (M:60.5),67,,1,0,R.VATVSLPR.S,,CID,108 - 115,P00761|TRYP_PIG,Trypsin precursor - Sus scrofa
+106,,true,2236,421.7589,841.5022,2,1.20,8.04,25.73,49.4 (M:49.4),67,,1,0,R.VATVSLPR.S,,CID,108 - 115,P00761|TRYP_PIG,Trypsin precursor - Sus scrofa
+107,,true,2220,421.7589,841.5022,2,1.20,10.11,25.70,59.0 (M:59.0),67,,1,0,R.VATVSLPR.S,,CID,108 - 115,P00761|TRYP_PIG,Trypsin precursor - Sus scrofa
+108,,true,1805,421.7589,841.5022,2,1.20,4.58,24.92,60.1 (M:60.1),67,,1,0,R.VATVSLPR.S,,CID,108 - 115,P00761|TRYP_PIG,Trypsin precursor - Sus scrofa
+109,,true,1822,421.7589,841.5022,2,1.20,6.35,24.95,56.9 (M:56.9),67,,1,0,R.VATVSLPR.S,,CID,108 - 115,P00761|TRYP_PIG,Trypsin precursor - Sus scrofa
+110,,true,660,421.7589,841.5022,2,1.23,3.03,22.97,57.2 (M:57.2),67,,1,0,R.VATVSLPR.S,,CID,108 - 115,P00761|TRYP_PIG,Trypsin precursor - Sus scrofa
+111,,true,259,421.7589,841.5022,2,1.23,7.85,21.92,61.8 (M:61.8),67,,1,0,R.VATVSLPR.S,,CID,108 - 115,P00761|TRYP_PIG,Trypsin precursor - Sus scrofa
+112,,true,680,421.7589,841.5022,2,1.23,4.14,23.00,52.4 (M:52.4),67,,1,0,R.VATVSLPR.S,,CID,108 - 115,P00761|TRYP_PIG,Trypsin precursor - Sus scrofa
+113,,true,215,421.7589,841.5022,2,1.25,3.76,21.42,60.5 (M:60.5),67,,1,0,R.VATVSLPR.S,,CID,108 - 115,P00761|TRYP_PIG,Trypsin precursor - Sus scrofa
+114,,true,198,421.7589,841.5022,2,1.32,2.47,21.17,60.6 (M:60.6),67,,1,0,R.VATVSLPR.S,,CID,108 - 115,P00761|TRYP_PIG,Trypsin precursor - Sus scrofa
+115,,true,194,421.7589,841.5022,2,1.32,5.94,21.12,60.4 (M:60.4),67,,1,0,R.VATVSLPR.S,,CID,108 - 115,P00761|TRYP_PIG,Trypsin precursor - Sus scrofa
+116,,true,2096,421.7589,841.5022,2,1.35,6.72,25.45,50.1 (M:50.1),67,,1,0,R.VATVSLPR.S,,CID,108 - 115,P00761|TRYP_PIG,Trypsin precursor - Sus scrofa
+117,,true,2114,421.7589,841.5022,2,1.37,8.27,25.48,60.2 (M:60.2),67,,1,0,R.VATVSLPR.S,,CID,108 - 115,P00761|TRYP_PIG,Trypsin precursor - Sus scrofa
+118,,true,812,421.7589,841.5022,2,1.39,6.65,23.25,60.3 (M:60.3),67,,1,0,R.VATVSLPR.S,,CID,108 - 115,P00761|TRYP_PIG,Trypsin precursor - Sus scrofa
+119,,true,832,421.7590,841.5022,2,1.42,5.95,23.28,54.9 (M:54.9),67,,1,0,R.VATVSLPR.S,,CID,108 - 115,P00761|TRYP_PIG,Trypsin precursor - Sus scrofa
+120,,true,2322,421.7590,841.5022,2,1.42,9.22,25.95,54.7 (M:54.7),67,,1,0,R.VATVSLPR.S,,CID,108 - 115,P00761|TRYP_PIG,Trypsin precursor - Sus scrofa
+121,,true,1170,421.7590,841.5022,2,1.44,7.47,23.82,54.3 (M:54.3),67,,1,0,R.VATVSLPR.S,,CID,108 - 115,P00761|TRYP_PIG,Trypsin precursor - Sus scrofa
+122,,true,1190,421.7590,841.5022,2,1.44,6.27,23.83,60.4 (M:60.4),67,,1,0,R.VATVSLPR.S,,CID,108 - 115,P00761|TRYP_PIG,Trypsin precursor - Sus scrofa
+123,,true,2337,421.7590,841.5022,2,1.49,5.58,25.98,63.0 (M:63.0),67,,1,0,R.VATVSLPR.S,,CID,108 - 115,P00761|TRYP_PIG,Trypsin precursor - Sus scrofa
+124,,true,990,421.7590,841.5022,2,1.49,4.97,23.53,60.5 (M:60.5),67,,1,0,R.VATVSLPR.S,,CID,108 - 115,P00761|TRYP_PIG,Trypsin precursor - Sus scrofa
+125,,true,1010,421.7590,841.5022,2,1.49,4.64,23.57,57.1 (M:57.1),67,,1,0,R.VATVSLPR.S,,CID,108 - 115,P00761|TRYP_PIG,Trypsin precursor - Sus scrofa
+126,,true,235,421.7590,841.5022,2,1.51,3.09,21.68,68.2 (M:68.2),67,,1,0,R.VATVSLPR.S,,CID,108 - 115,P00761|TRYP_PIG,Trypsin precursor - Sus scrofa
+127,,true,232,421.7590,841.5022,2,1.51,4.02,21.65,68.2 (M:68.2),67,,1,0,R.VATVSLPR.S,,CID,108 - 115,P00761|TRYP_PIG,Trypsin precursor - Sus scrofa
+128,,true,345,421.7591,841.5022,2,1.65,11.05,22.23,51.0 (M:51.0),67,,1,0,R.VATVSLPR.S,,CID,108 - 115,P00761|TRYP_PIG,Trypsin precursor - Sus scrofa
+129,,true,334,421.7591,841.5022,2,1.65,5.85,22.20,60.4 (M:60.4),67,,1,0,R.VATVSLPR.S,,CID,108 - 115,P00761|TRYP_PIG,Trypsin precursor - Sus scrofa
+130,,true,1369,421.7591,841.5022,2,1.68,8.57,24.12,60.2 (M:60.2),67,,1,0,R.VATVSLPR.S,,CID,108 - 115,P00761|TRYP_PIG,Trypsin precursor - Sus scrofa
+131,,true,1349,421.7591,841.5022,2,1.68,6.82,24.08,60.4 (M:60.4),67,,1,0,R.VATVSLPR.S,,CID,108 - 115,P00761|TRYP_PIG,Trypsin precursor - Sus scrofa
+132,,true,1540,421.7591,841.5022,2,1.70,5.00,24.40,60.4 (M:60.4),67,,1,0,R.VATVSLPR.S,,CID,108 - 115,P00761|TRYP_PIG,Trypsin precursor - Sus scrofa
+133,,true,1520,421.7591,841.5022,2,1.70,6.93,24.37,68.1 (M:68.1),67,,1,0,R.VATVSLPR.S,,CID,108 - 115,P00761|TRYP_PIG,Trypsin precursor - Sus scrofa
+134,,true,179,421.7591,841.5022,2,1.75,3.82,20.88,62.4 (M:62.4),67,,1,0,R.VATVSLPR.S,,CID,108 - 115,P00761|TRYP_PIG,Trypsin precursor - Sus scrofa
+135,,true,1676,421.7591,841.5022,2,1.80,6.00,24.65,64.2 (M:64.2),67,,1,0,R.VATVSLPR.S,,CID,108 - 115,P00761|TRYP_PIG,Trypsin precursor - Sus scrofa
+136,,true,421,421.7591,841.5022,2,1.84,4.31,22.48,60.3 (M:60.3),67,,1,0,R.VATVSLPR.S,,CID,108 - 115,P00761|TRYP_PIG,Trypsin precursor - Sus scrofa
+137,,true,177,421.7591,841.5022,2,1.84,3.40,20.85,57.4 (M:57.4),67,,1,0,R.VATVSLPR.S,,CID,108 - 115,P00761|TRYP_PIG,Trypsin precursor - Sus scrofa
+138,,true,1696,421.7591,841.5022,2,1.87,7.06,24.67,62.3 (M:62.3),67,,1,0,R.VATVSLPR.S,,CID,108 - 115,P00761|TRYP_PIG,Trypsin precursor - Sus scrofa
+139,,true,434,421.7592,841.5022,2,1.94,7.63,22.50,58.2 (M:58.2),67,,1,0,R.VATVSLPR.S,,CID,108 - 115,P00761|TRYP_PIG,Trypsin precursor - Sus scrofa
+140,,true,3181,421.7594,841.5022,2,2.55,9.75,28.57,30.2 (M:30.2),67,,1,0,R.VATVSLPR.S,,CID,108 - 115,P00761|TRYP_PIG,Trypsin precursor - Sus scrofa
+141,,true,189,437.7522,873.4920,2,-2.37,12.08,21.02,31.5 (M:31.5),2,,1,0,R.SLVNLGGSK.S,,CID,66 - 74,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+142,,true,229,437.7530,873.4920,2,-0.63,4.22,21.60,39.2 (M:39.2),2,,1,0,R.SLVNLGGSK.S,,CID,66 - 74,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+143,,true,3245,449.2107,896.4062,2,0.74,8.17,28.82,23.9 (M:23.9),1,,1,0,R.MTLDDFR.I,,CID,234 - 240,P35527|K1C9_HUMAN,"Keratin, type I cytoskeletal 9 - Homo sapiens"
+144,,true,3211,453.2442,1356.7110,3,-0.26,64.93,28.68,22.3 (M:22.3),1,,1,1,R.QSVEADINGLRR.V,,CID,246 - 257,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+145,,true,2401,464.2302,1389.6736,3,-3.37,24.19,26.20,29.5 (M:29.5),29,,1,0,K.QSLEASLAETEGR.Y,,CID,387 - 399,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+146,,true,2415,464.2303,1389.6736,3,-3.16,37.86,26.27,35.2 (M:35.2),29,,1,0,K.QSLEASLAETEGR.Y,,CID,387 - 399,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+147,,true,2495,464.2320,1389.6736,3,0.31,24.68,26.48,42.6 (M:42.6),29,,1,0,K.QSLEASLAETEGR.Y,,CID,387 - 399,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+148,,true,2814,464.2325,1389.6736,3,1.39,12.86,27.43,26.0 (M:26.0),29,,1,0,K.QSLEASLAETEGR.Y,,CID,387 - 399,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+149,,true,2832,464.2326,1389.6736,3,1.69,15.69,27.52,24.0 (M:24.0),29,,1,0,K.QSLEASLAETEGR.Y,,CID,387 - 399,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+150,,true,2502,464.2331,1389.6736,3,2.75,11.90,26.52,31.0 (M:31.0),29,,1,0,K.QSLEASLAETEGR.Y,,CID,387 - 399,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+151,,true,2709,465.2487,1392.7249,3,-0.36,17.16,27.08,21.8 (M:21.8),1,,1,1,R.TNAENEFVTIKK.D,,CID,278 - 289,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+152,,true,3329,472.7689,943.5338,2,-11.19,61.07,29.03,21.4 (M:21.4),7,,1,1,K.QLKELGEK.I,,CID,620 - 627,At4g24280.1_ARATH,cpHsc70-1_GAG_URT1partners
+153,,true,3166,472.7694,943.5338,2,-10.22,42.24,28.50,20.5 (M:20.5),7,,1,1,K.QLKELGEK.I,,CID,620 - 627,At4g24280.1_ARATH,cpHsc70-1_GAG_URT1partners
+154,,true,3477,472.7695,943.5338,2,-10.02,29.10,29.28,25.8 (M:25.8),7,,1,1,K.QLKELGEK.I,,CID,620 - 627,At4g24280.1_ARATH,cpHsc70-1_GAG_URT1partners
+155,,true,3453,472.7695,943.5338,2,-10.02,52.22,29.25,24.3 (M:24.3),7,,1,1,K.QLKELGEK.I,,CID,620 - 627,At4g24280.1_ARATH,cpHsc70-1_GAG_URT1partners
+156,,true,3232,472.7698,943.5338,2,-9.22,49.02,28.75,28.0 (M:28.0),7,,1,1,K.QLKELGEK.I,,CID,620 - 627,At4g24280.1_ARATH,cpHsc70-1_GAG_URT1partners
+157,,true,3845,472.7698,943.5338,2,-9.22,55.38,30.07,24.5 (M:24.5),7,,1,1,K.QLKELGEK.I,,CID,620 - 627,At4g24280.1_ARATH,cpHsc70-1_GAG_URT1partners
+158,,true,3074,472.7703,943.5338,2,-8.27,47.53,28.22,24.3 (M:24.3),7,,1,1,K.QLKELGEK.I,,CID,620 - 627,At4g24280.1_ARATH,cpHsc70-1_GAG_URT1partners
+159,,true,4294,473.2794,944.5444,2,-0.09,9.86,30.83,23.3 (M:23.3),7,,1,0,R.AVFPSIVGR.P,,CID,31 - 39,At5g09810.1_ARATH,ACT7_GAG_URT1partners
+160,,true,4533,473.2808,944.5444,2,2.89,6.39,31.37,41.5 (M:41.5),7,,1,0,R.AVFPSIVGR.P,,CID,31 - 39,At5g09810.1_ARATH,ACT7_GAG_URT1partners
+161,,true,4618,473.2809,944.5444,2,2.95,9.95,31.63,29.1 (M:29.1),7,,1,0,R.AVFPSIVGR.P,,CID,31 - 39,At5g09810.1_ARATH,ACT7_GAG_URT1partners
+162,,true,4606,473.2809,944.5444,2,2.95,17.44,31.60,31.5 (M:31.5),7,,1,0,R.AVFPSIVGR.P,,CID,31 - 39,At5g09810.1_ARATH,ACT7_GAG_URT1partners
+163,,true,4522,473.2809,944.5444,2,3.06,3.54,31.33,20.8 (M:20.8),7,,1,0,R.AVFPSIVGR.P,,CID,31 - 39,At5g09810.1_ARATH,ACT7_GAG_URT1partners
+164,,true,4432,473.2825,944.5444,2,6.50,10.63,31.10,24.0 (M:24.0),7,,1,0,R.AVFPSIVGR.P,,CID,31 - 39,At5g09810.1_ARATH,ACT7_GAG_URT1partners
+165,,true,4415,473.2825,944.5444,2,6.50,11.41,31.08,21.1 (M:21.1),7,,1,0,R.AVFPSIVGR.P,,CID,31 - 39,At5g09810.1_ARATH,ACT7_GAG_URT1partners
+166,,true,3867,478.9268,1433.7627,3,-2.82,16.39,30.10,23.8 (M:23.8),1,,1,1,K.IRLENEIQTYR.S,,CID,440 - 450,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+167,,true,1768,487.2694,972.5240,2,0.24,4.54,24.83,50.1 (M:50.1),13,,1,0,K.IEISELNR.V,,CID,396 - 403,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+168,,true,1768,487.2694,972.5240,2,0.24,4.54,24.83,50.1 (M:50.1),13,,1,0,K.IEISELNR.V,,CID,400 - 407,P35908|K22E_HUMAN,"Keratin, type II cytoskeletal 2 epidermal - Homo sapiens"
+169,,true,1758,487.2695,972.5240,2,0.47,6.05,24.80,48.4 (M:48.4),13,,1,0,K.IEISELNR.V,,CID,396 - 403,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+170,,true,1758,487.2695,972.5240,2,0.47,6.05,24.80,48.4 (M:48.4),13,,1,0,K.IEISELNR.V,,CID,400 - 407,P35908|K22E_HUMAN,"Keratin, type II cytoskeletal 2 epidermal - Homo sapiens"
+171,,true,1878,487.2695,972.5240,2,0.49,12.56,25.08,41.6 (M:41.6),13,,1,0,K.IEISELNR.V,,CID,396 - 403,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+172,,true,1894,487.2695,972.5240,2,0.49,13.00,25.12,34.6 (M:34.6),13,,1,0,K.IEISELNR.V,,CID,396 - 403,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+173,,true,1894,487.2695,972.5240,2,0.49,13.00,25.12,34.6 (M:34.6),13,,1,0,K.IEISELNR.V,,CID,400 - 407,P35908|K22E_HUMAN,"Keratin, type II cytoskeletal 2 epidermal - Homo sapiens"
+174,,true,1878,487.2695,972.5240,2,0.49,12.56,25.08,41.6 (M:41.6),13,,1,0,K.IEISELNR.V,,CID,400 - 407,P35908|K22E_HUMAN,"Keratin, type II cytoskeletal 2 epidermal - Homo sapiens"
+175,,true,1618,487.2695,972.5240,2,0.51,7.36,24.52,47.7 (M:47.7),13,,1,0,K.IEISELNR.V,,CID,400 - 407,P35908|K22E_HUMAN,"Keratin, type II cytoskeletal 2 epidermal - Homo sapiens"
+176,,true,1618,487.2695,972.5240,2,0.51,7.36,24.52,47.7 (M:47.7),13,,1,0,K.IEISELNR.V,,CID,396 - 403,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+177,,true,2311,487.2696,972.5240,2,0.61,8.67,25.93,30.3 (M:30.3),13,,1,0,K.IEISELNR.V,,CID,396 - 403,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+178,,true,2311,487.2696,972.5240,2,0.61,8.67,25.93,30.3 (M:30.3),13,,1,0,K.IEISELNR.V,,CID,400 - 407,P35908|K22E_HUMAN,"Keratin, type II cytoskeletal 2 epidermal - Homo sapiens"
+179,,true,1629,487.2696,972.5240,2,0.63,7.92,24.55,39.0 (M:39.0),13,,1,0,K.IEISELNR.V,,CID,400 - 407,P35908|K22E_HUMAN,"Keratin, type II cytoskeletal 2 epidermal - Homo sapiens"
+180,,true,2190,487.2696,972.5240,2,0.63,8.44,25.63,31.9 (M:31.9),13,,1,0,K.IEISELNR.V,,CID,400 - 407,P35908|K22E_HUMAN,"Keratin, type II cytoskeletal 2 epidermal - Homo sapiens"
+181,,true,1629,487.2696,972.5240,2,0.63,7.92,24.55,39.0 (M:39.0),13,,1,0,K.IEISELNR.V,,CID,396 - 403,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+182,,true,2190,487.2696,972.5240,2,0.63,8.44,25.63,31.9 (M:31.9),13,,1,0,K.IEISELNR.V,,CID,396 - 403,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+183,,true,1460,487.2701,972.5240,2,1.60,3.82,24.27,28.5 (M:28.5),13,,1,0,K.IEISELNR.V,,CID,400 - 407,P35908|K22E_HUMAN,"Keratin, type II cytoskeletal 2 epidermal - Homo sapiens"
+184,,true,1460,487.2701,972.5240,2,1.60,3.82,24.27,28.5 (M:28.5),13,,1,0,K.IEISELNR.V,,CID,396 - 403,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+185,,true,2130,487.2703,972.5240,2,2.01,6.96,25.52,32.2 (M:32.2),13,,1,0,K.IEISELNR.V,,CID,396 - 403,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+186,,true,2130,487.2703,972.5240,2,2.01,6.96,25.52,32.2 (M:32.2),13,,1,0,K.IEISELNR.V,,CID,400 - 407,P35908|K22E_HUMAN,"Keratin, type II cytoskeletal 2 epidermal - Homo sapiens"
+187,,true,2590,487.2717,972.5240,2,4.88,15.11,26.72,29.1 (M:29.1),13,,1,0,K.IEISELNR.V,,CID,400 - 407,P35908|K22E_HUMAN,"Keratin, type II cytoskeletal 2 epidermal - Homo sapiens"
+188,,true,2590,487.2717,972.5240,2,4.88,15.11,26.72,29.1 (M:29.1),13,,1,0,K.IEISELNR.V,,CID,396 - 403,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+189,,true,1444,487.2717,972.5240,2,5.03,62.08,24.23,24.0 (M:24.0),13,,1,0,K.IEISELNR.V,,CID,400 - 407,P35908|K22E_HUMAN,"Keratin, type II cytoskeletal 2 epidermal - Homo sapiens"
+190,,true,1444,487.2717,972.5240,2,5.03,62.08,24.23,24.0 (M:24.0),13,,1,0,K.IEISELNR.V,,CID,396 - 403,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+191,,true,220,498.5829,1492.7270,3,-0.12,12.98,21.45,37.3 (M:37.3),1,,1,1,R.SQYEQLAEQNRK.D,,CID,323 - 334,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+192,,true,3631,515.3001,1028.5866,2,-1.01,19.92,29.60,20.2 (M:20.2),2,,1,0,R.VLDELTLAR.A,,CID,224 - 232,P02533|K1C14_HUMAN,"Keratin, type I cytoskeletal 14 - Homo sapiens"
+193,,true,4105,515.3010,1028.5866,2,0.83,12.22,30.50,29.2 (M:29.2),2,,1,0,R.VLDELTLAR.A,,CID,224 - 232,P02533|K1C14_HUMAN,"Keratin, type I cytoskeletal 14 - Homo sapiens"
+194,,true,3158,516.3005,1030.5910,2,-4.36,13.87,28.43,40.4 (M:40.4),19,,1,0,R.VLDELTLTK.A,,CID,258 - 266,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+195,,true,3697,516.3030,1030.5910,2,0.41,15.31,29.78,26.6 (M:26.6),19,,1,0,R.VLDELTLTK.A,,CID,258 - 266,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+196,,true,3586,516.3030,1030.5910,2,0.43,25.79,29.47,41.5 (M:41.5),19,,1,0,R.VLDELTLTK.A,,CID,258 - 266,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+197,,true,2806,516.3030,1030.5910,2,0.47,13.00,27.40,32.1 (M:32.1),19,,1,0,R.VLDELTLTK.A,,CID,258 - 266,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+198,,true,2798,516.3030,1030.5910,2,0.47,28.19,27.37,30.6 (M:30.6),19,,1,0,R.VLDELTLTK.A,,CID,258 - 266,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+199,,true,3220,516.3032,1030.5910,2,0.78,19.12,28.72,51.5 (M:51.5),19,,1,0,R.VLDELTLTK.A,,CID,258 - 266,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+200,,true,3684,516.3032,1030.5910,2,0.81,11.99,29.75,26.3 (M:26.3),19,,1,0,R.VLDELTLTK.A,,CID,258 - 266,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+201,,true,3146,516.3033,1030.5910,2,0.99,12.74,28.40,39.9 (M:39.9),19,,1,0,R.VLDELTLTK.A,,CID,258 - 266,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+202,,true,3296,516.3033,1030.5910,2,1.01,16.77,28.97,41.0 (M:41.0),19,,1,0,R.VLDELTLTK.A,,CID,258 - 266,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+203,,true,3313,516.3033,1030.5910,2,1.01,8.60,29.00,46.6 (M:46.6),19,,1,0,R.VLDELTLTK.A,,CID,258 - 266,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+204,,true,3212,516.3033,1030.5910,2,1.07,37.02,28.68,61.6 (M:61.6),19,,1,0,R.VLDELTLTK.A,,CID,258 - 266,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+205,,true,3436,516.3034,1030.5910,2,1.14,41.55,29.22,31.6 (M:31.6),19,,1,0,R.VLDELTLTK.A,,CID,258 - 266,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+206,,true,3458,516.3034,1030.5910,2,1.14,10.58,29.25,49.0 (M:49.0),19,,1,0,R.VLDELTLTK.A,,CID,258 - 266,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+207,,true,3068,516.3035,1030.5910,2,1.32,6.91,28.18,39.3 (M:39.3),19,,1,0,R.VLDELTLTK.A,,CID,258 - 266,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+208,,true,2888,516.3035,1030.5910,2,1.38,24.43,27.65,32.0 (M:32.0),19,,1,0,R.VLDELTLTK.A,,CID,258 - 266,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+209,,true,2969,516.3037,1030.5910,2,1.74,8.67,27.90,29.5 (M:29.5),19,,1,0,R.VLDELTLTK.A,,CID,258 - 266,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+210,,true,2986,516.3037,1030.5910,2,1.74,12.26,27.93,51.0 (M:51.0),19,,1,0,R.VLDELTLTK.A,,CID,258 - 266,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+211,,true,2900,516.3040,1030.5910,2,2.27,15.39,27.68,42.8 (M:42.8),19,,1,0,R.VLDELTLTK.A,,CID,258 - 266,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+212,,true,3598,516.3041,1030.5910,2,2.52,18.26,29.50,23.5 (M:23.5),19,,1,0,R.VLDELTLTK.A,,CID,258 - 266,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+213,,true,67,517.2604,1032.5088,2,-2.40,20.70,16.93,74.3 (M:74.3),16,,1,0,R.TLLEGEESR.M,,CID,484 - 492,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+214,,true,68,517.2604,1032.5088,2,-2.40,20.94,16.97,65.7 (M:65.7),16,,1,0,R.TLLEGEESR.M,,CID,484 - 492,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+215,,true,33,517.2609,1032.5088,2,-1.49,7.34,16.20,69.1 (M:69.1),16,,1,0,R.TLLEGEESR.M,,CID,484 - 492,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+216,,true,32,517.2609,1032.5088,2,-1.49,10.01,16.17,66.8 (M:66.8),16,,1,0,R.TLLEGEESR.M,,CID,484 - 492,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+217,,true,44,517.2610,1032.5088,2,-1.30,16.65,16.42,84.5 (M:84.5),16,,1,0,R.TLLEGEESR.M,,CID,484 - 492,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+218,,true,58,517.2612,1032.5088,2,-0.97,1.95,16.72,58.3 (M:58.3),16,,1,0,R.TLLEGEESR.M,,CID,484 - 492,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+219,,true,45,517.2612,1032.5088,2,-0.88,6.54,16.45,77.1 (M:77.1),16,,1,0,R.TLLEGEESR.M,,CID,484 - 492,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+220,,true,23,517.2612,1032.5088,2,-0.86,6.07,15.93,80.8 (M:80.8),16,,1,0,R.TLLEGEESR.M,,CID,484 - 492,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+221,,true,22,517.2612,1032.5088,2,-0.86,5.17,15.90,66.8 (M:66.8),16,,1,0,R.TLLEGEESR.M,,CID,484 - 492,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+222,,true,57,517.2613,1032.5088,2,-0.78,7.66,16.68,68.0 (M:68.0),16,,1,0,R.TLLEGEESR.M,,CID,484 - 492,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+223,,true,12,517.2614,1032.5088,2,-0.57,3.66,15.37,66.8 (M:66.8),16,,1,0,R.TLLEGEESR.M,,CID,484 - 492,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+224,,true,13,517.2614,1032.5088,2,-0.57,8.97,15.40,77.3 (M:77.3),16,,1,0,R.TLLEGEESR.M,,CID,484 - 492,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+225,,true,17,517.2614,1032.5088,2,-0.55,4.86,15.65,80.8 (M:80.8),16,,1,0,R.TLLEGEESR.M,,CID,484 - 492,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+226,,true,18,517.2614,1032.5088,2,-0.55,5.99,15.68,80.7 (M:80.7),16,,1,0,R.TLLEGEESR.M,,CID,484 - 492,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+227,,true,10,517.2615,1032.5088,2,-0.26,4.02,15.15,57.9 (M:57.9),16,,1,0,R.TLLEGEESR.M,,CID,484 - 492,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+228,,true,9,517.2617,1032.5088,2,0.15,11.59,15.12,56.9 (M:56.9),16,,1,0,R.TLLEGEESR.M,,CID,484 - 492,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+229,,true,1910,519.2671,1036.5189,2,0.77,17.26,25.13,26.3 (M:26.3),3,,1,0,R.YLDGLTAER.T,,CID,245 - 253,P35908|K22E_HUMAN,"Keratin, type II cytoskeletal 2 epidermal - Homo sapiens"
+230,,true,2191,519.2674,1036.5189,2,1.27,18.74,25.65,25.6 (M:25.6),3,,1,0,R.YLDGLTAER.T,,CID,245 - 253,P35908|K22E_HUMAN,"Keratin, type II cytoskeletal 2 epidermal - Homo sapiens"
+231,,true,2312,519.2675,1036.5189,2,1.50,21.84,25.93,35.2 (M:35.2),3,,1,0,R.YLDGLTAER.T,,CID,245 - 253,P35908|K22E_HUMAN,"Keratin, type II cytoskeletal 2 epidermal - Homo sapiens"
+232,,true,36,521.2809,1040.5502,2,-2.86,8.28,16.27,44.8 (M:44.8),6,,1,0,K.VDPEIQNVK.A,,CID,173 - 181,P35908|K22E_HUMAN,"Keratin, type II cytoskeletal 2 epidermal - Homo sapiens"
+233,,true,38,521.2814,1040.5502,2,-1.94,10.43,16.28,34.4 (M:34.4),6,,1,0,K.VDPEIQNVK.A,,CID,173 - 181,P35908|K22E_HUMAN,"Keratin, type II cytoskeletal 2 epidermal - Homo sapiens"
+234,,true,51,521.2819,1040.5502,2,-1.01,13.04,16.53,46.6 (M:46.6),6,,1,0,K.VDPEIQNVK.A,,CID,173 - 181,P35908|K22E_HUMAN,"Keratin, type II cytoskeletal 2 epidermal - Homo sapiens"
+235,,true,49,521.2819,1040.5502,2,-1.01,16.33,16.52,38.2 (M:38.2),6,,1,0,K.VDPEIQNVK.A,,CID,173 - 181,P35908|K22E_HUMAN,"Keratin, type II cytoskeletal 2 epidermal - Homo sapiens"
+236,,true,27,521.2819,1040.5502,2,-0.88,17.79,16.02,33.5 (M:33.5),6,,1,0,K.VDPEIQNVK.A,,CID,173 - 181,P35908|K22E_HUMAN,"Keratin, type II cytoskeletal 2 epidermal - Homo sapiens"
+237,,true,26,521.2819,1040.5502,2,-0.88,5.55,16.00,35.8 (M:35.8),6,,1,0,K.VDPEIQNVK.A,,CID,173 - 181,P35908|K22E_HUMAN,"Keratin, type II cytoskeletal 2 epidermal - Homo sapiens"
+238,,true,145,523.2832,1044.5564,2,-4.34,57.45,20.15,53.5 (M:53.5),42,,1,0,K.LSSPATLNSR.V,,CID,98 - 107,P00761|TRYP_PIG,Trypsin precursor - Sus scrofa
+239,,true,155,523.2837,1044.5564,2,-3.46,7.92,20.40,37.2 (M:37.2),42,,1,0,K.LSSPATLNSR.V,,CID,98 - 107,P00761|TRYP_PIG,Trypsin precursor - Sus scrofa
+240,,true,157,523.2837,1044.5564,2,-3.46,5.71,20.43,50.5 (M:50.5),42,,1,0,K.LSSPATLNSR.V,,CID,98 - 107,P00761|TRYP_PIG,Trypsin precursor - Sus scrofa
+241,,true,121,523.2843,1044.5564,2,-2.22,5.67,18.88,56.4 (M:56.4),42,,1,0,K.LSSPATLNSR.V,,CID,98 - 107,P00761|TRYP_PIG,Trypsin precursor - Sus scrofa
+242,,true,120,523.2843,1044.5564,2,-2.22,5.88,18.85,56.8 (M:56.8),42,,1,0,K.LSSPATLNSR.V,,CID,98 - 107,P00761|TRYP_PIG,Trypsin precursor - Sus scrofa
+243,,true,129,523.2844,1044.5564,2,-1.95,4.07,19.38,54.9 (M:54.9),42,,1,0,K.LSSPATLNSR.V,,CID,98 - 107,P00761|TRYP_PIG,Trypsin precursor - Sus scrofa
+244,,true,128,523.2844,1044.5564,2,-1.95,5.46,19.37,62.9 (M:62.9),42,,1,0,K.LSSPATLNSR.V,,CID,98 - 107,P00761|TRYP_PIG,Trypsin precursor - Sus scrofa
+245,,true,173,523.2845,1044.5564,2,-1.80,2.88,20.73,50.6 (M:50.6),42,,1,0,K.LSSPATLNSR.V,,CID,98 - 107,P00761|TRYP_PIG,Trypsin precursor - Sus scrofa
+246,,true,171,523.2845,1044.5564,2,-1.80,8.14,20.72,47.8 (M:47.8),42,,1,0,K.LSSPATLNSR.V,,CID,98 - 107,P00761|TRYP_PIG,Trypsin precursor - Sus scrofa
+247,,true,106,523.2846,1044.5564,2,-1.63,4.02,18.33,55.6 (M:55.6),42,,1,0,K.LSSPATLNSR.V,,CID,98 - 107,P00761|TRYP_PIG,Trypsin precursor - Sus scrofa
+248,,true,107,523.2846,1044.5564,2,-1.63,5.40,18.37,56.5 (M:56.5),42,,1,0,K.LSSPATLNSR.V,,CID,98 - 107,P00761|TRYP_PIG,Trypsin precursor - Sus scrofa
+249,,true,115,523.2846,1044.5564,2,-1.57,5.47,18.63,66.6 (M:66.6),42,,1,0,K.LSSPATLNSR.V,,CID,98 - 107,P00761|TRYP_PIG,Trypsin precursor - Sus scrofa
+250,,true,114,523.2846,1044.5564,2,-1.57,4.36,18.60,60.0 (M:60.0),42,,1,0,K.LSSPATLNSR.V,,CID,98 - 107,P00761|TRYP_PIG,Trypsin precursor - Sus scrofa
+251,,true,100,523.2847,1044.5564,2,-1.44,6.24,18.12,55.2 (M:55.2),42,,1,0,K.LSSPATLNSR.V,,CID,98 - 107,P00761|TRYP_PIG,Trypsin precursor - Sus scrofa
+252,,true,99,523.2847,1044.5564,2,-1.44,4.88,18.08,57.7 (M:57.7),42,,1,0,K.LSSPATLNSR.V,,CID,98 - 107,P00761|TRYP_PIG,Trypsin precursor - Sus scrofa
+253,,true,92,523.2848,1044.5564,2,-1.29,2.83,17.85,57.8 (M:57.8),42,,1,0,K.LSSPATLNSR.V,,CID,98 - 107,P00761|TRYP_PIG,Trypsin precursor - Sus scrofa
+254,,true,91,523.2848,1044.5564,2,-1.29,3.29,17.82,57.3 (M:57.3),42,,1,0,K.LSSPATLNSR.V,,CID,98 - 107,P00761|TRYP_PIG,Trypsin precursor - Sus scrofa
+255,,true,124,523.2849,1044.5564,2,-1.13,5.75,19.10,68.0 (M:68.0),42,,1,0,K.LSSPATLNSR.V,,CID,98 - 107,P00761|TRYP_PIG,Trypsin precursor - Sus scrofa
+256,,true,137,523.2850,1044.5564,2,-0.85,3.73,19.88,45.1 (M:45.1),42,,1,0,K.LSSPATLNSR.V,,CID,98 - 107,P00761|TRYP_PIG,Trypsin precursor - Sus scrofa
+257,,true,138,523.2850,1044.5564,2,-0.85,3.64,19.92,40.9 (M:40.9),42,,1,0,K.LSSPATLNSR.V,,CID,98 - 107,P00761|TRYP_PIG,Trypsin precursor - Sus scrofa
+258,,true,21,523.2851,1044.5564,2,-0.75,4.83,15.80,66.7 (M:66.7),42,,1,0,K.LSSPATLNSR.V,,CID,98 - 107,P00761|TRYP_PIG,Trypsin precursor - Sus scrofa
+259,,true,29,523.2851,1044.5564,2,-0.69,2.62,16.05,57.5 (M:57.5),42,,1,0,K.LSSPATLNSR.V,,CID,98 - 107,P00761|TRYP_PIG,Trypsin precursor - Sus scrofa
+260,,true,28,523.2851,1044.5564,2,-0.69,3.33,16.03,59.0 (M:59.0),42,,1,0,K.LSSPATLNSR.V,,CID,98 - 107,P00761|TRYP_PIG,Trypsin precursor - Sus scrofa
+261,,true,125,523.2851,1044.5564,2,-0.67,5.39,19.13,56.9 (M:56.9),42,,1,0,K.LSSPATLNSR.V,,CID,98 - 107,P00761|TRYP_PIG,Trypsin precursor - Sus scrofa
+262,,true,133,523.2851,1044.5564,2,-0.64,12.27,19.65,44.1 (M:44.1),42,,1,0,K.LSSPATLNSR.V,,CID,98 - 107,P00761|TRYP_PIG,Trypsin precursor - Sus scrofa
+263,,true,131,523.2851,1044.5564,2,-0.64,11.25,19.60,51.7 (M:51.7),42,,1,0,K.LSSPATLNSR.V,,CID,98 - 107,P00761|TRYP_PIG,Trypsin precursor - Sus scrofa
+264,,true,39,523.2852,1044.5564,2,-0.60,3.18,16.28,57.4 (M:57.4),42,,1,0,K.LSSPATLNSR.V,,CID,98 - 107,P00761|TRYP_PIG,Trypsin precursor - Sus scrofa
+265,,true,20,523.2852,1044.5564,2,-0.60,4.30,15.77,58.9 (M:58.9),42,,1,0,K.LSSPATLNSR.V,,CID,98 - 107,P00761|TRYP_PIG,Trypsin precursor - Sus scrofa
+266,,true,40,523.2852,1044.5564,2,-0.60,2.43,16.32,57.8 (M:57.8),42,,1,0,K.LSSPATLNSR.V,,CID,98 - 107,P00761|TRYP_PIG,Trypsin precursor - Sus scrofa
+267,,true,14,523.2852,1044.5564,2,-0.60,4.07,15.52,43.9 (M:43.9),42,,1,0,K.LSSPATLNSR.V,,CID,98 - 107,P00761|TRYP_PIG,Trypsin precursor - Sus scrofa
+268,,true,15,523.2852,1044.5564,2,-0.60,4.81,15.55,54.0 (M:54.0),42,,1,0,K.LSSPATLNSR.V,,CID,98 - 107,P00761|TRYP_PIG,Trypsin precursor - Sus scrofa
+269,,true,146,523.2852,1044.5564,2,-0.56,8.07,20.17,37.6 (M:37.6),42,,1,0,K.LSSPATLNSR.V,,CID,98 - 107,P00761|TRYP_PIG,Trypsin precursor - Sus scrofa
+270,,true,54,523.2852,1044.5564,2,-0.56,3.01,16.58,59.0 (M:59.0),42,,1,0,K.LSSPATLNSR.V,,CID,98 - 107,P00761|TRYP_PIG,Trypsin precursor - Sus scrofa
+271,,true,52,523.2852,1044.5564,2,-0.56,3.94,16.53,57.4 (M:57.4),42,,1,0,K.LSSPATLNSR.V,,CID,98 - 107,P00761|TRYP_PIG,Trypsin precursor - Sus scrofa
+272,,true,73,523.2853,1044.5564,2,-0.23,3.30,17.05,59.0 (M:59.0),42,,1,0,K.LSSPATLNSR.V,,CID,98 - 107,P00761|TRYP_PIG,Trypsin precursor - Sus scrofa
+273,,true,63,523.2854,1044.5564,2,-0.12,4.31,16.80,57.4 (M:57.4),42,,1,0,K.LSSPATLNSR.V,,CID,98 - 107,P00761|TRYP_PIG,Trypsin precursor - Sus scrofa
+274,,true,64,523.2854,1044.5564,2,-0.12,2.82,16.83,57.4 (M:57.4),42,,1,0,K.LSSPATLNSR.V,,CID,98 - 107,P00761|TRYP_PIG,Trypsin precursor - Sus scrofa
+275,,true,85,523.2855,1044.5564,2,0.03,2.98,17.57,56.3 (M:56.3),42,,1,0,K.LSSPATLNSR.V,,CID,98 - 107,P00761|TRYP_PIG,Trypsin precursor - Sus scrofa
+276,,true,86,523.2855,1044.5564,2,0.03,2.29,17.58,57.4 (M:57.4),42,,1,0,K.LSSPATLNSR.V,,CID,98 - 107,P00761|TRYP_PIG,Trypsin precursor - Sus scrofa
+277,,true,74,523.2856,1044.5564,2,0.32,3.56,17.08,54.3 (M:54.3),42,,1,0,K.LSSPATLNSR.V,,CID,98 - 107,P00761|TRYP_PIG,Trypsin precursor - Sus scrofa
+278,,true,79,523.2859,1044.5564,2,0.76,2.49,17.30,58.2 (M:58.2),42,,1,0,K.LSSPATLNSR.V,,CID,98 - 107,P00761|TRYP_PIG,Trypsin precursor - Sus scrofa
+279,,true,80,523.2859,1044.5564,2,0.76,2.40,17.33,57.4 (M:57.4),42,,1,0,K.LSSPATLNSR.V,,CID,98 - 107,P00761|TRYP_PIG,Trypsin precursor - Sus scrofa
+280,,true,3656,530.7818,1059.5560,2,-6.62,14.41,29.68,27.1 (M:27.1),26,,1,0,K.TLLDIDNTR.M,,CID,225 - 233,P35527|K1C9_HUMAN,"Keratin, type I cytoskeletal 9 - Homo sapiens"
+281,,true,3285,530.7853,1059.5560,2,-0.07,16.11,28.93,46.1 (M:46.1),26,,1,0,K.TLLDIDNTR.M,,CID,225 - 233,P35527|K1C9_HUMAN,"Keratin, type I cytoskeletal 9 - Homo sapiens"
+282,,true,3297,530.7853,1059.5560,2,-0.07,10.80,28.97,41.5 (M:41.5),26,,1,0,K.TLLDIDNTR.M,,CID,225 - 233,P35527|K1C9_HUMAN,"Keratin, type I cytoskeletal 9 - Homo sapiens"
+283,,true,2373,530.7853,1059.5560,2,-0.07,10.90,26.08,32.4 (M:32.4),26,,1,0,K.TLLDIDNTR.M,,CID,225 - 233,P35527|K1C9_HUMAN,"Keratin, type I cytoskeletal 9 - Homo sapiens"
+284,,true,2529,530.7853,1059.5560,2,0.01,15.95,26.58,42.0 (M:42.0),26,,1,0,K.TLLDIDNTR.M,,CID,225 - 233,P35527|K1C9_HUMAN,"Keratin, type I cytoskeletal 9 - Homo sapiens"
+285,,true,2873,530.7854,1059.5560,2,0.10,10.20,27.62,51.9 (M:51.9),26,,1,0,K.TLLDIDNTR.M,,CID,225 - 233,P35527|K1C9_HUMAN,"Keratin, type I cytoskeletal 9 - Homo sapiens"
+286,,true,2889,530.7854,1059.5560,2,0.10,7.40,27.65,47.1 (M:47.1),26,,1,0,K.TLLDIDNTR.M,,CID,225 - 233,P35527|K1C9_HUMAN,"Keratin, type I cytoskeletal 9 - Homo sapiens"
+287,,true,2711,530.7854,1059.5560,2,0.12,7.14,27.08,47.9 (M:47.9),26,,1,0,K.TLLDIDNTR.M,,CID,225 - 233,P35527|K1C9_HUMAN,"Keratin, type I cytoskeletal 9 - Homo sapiens"
+288,,true,2721,530.7854,1059.5560,2,0.12,9.47,27.12,42.2 (M:42.2),26,,1,0,K.TLLDIDNTR.M,,CID,225 - 233,P35527|K1C9_HUMAN,"Keratin, type I cytoskeletal 9 - Homo sapiens"
+289,,true,2624,530.7855,1059.5560,2,0.31,11.82,26.83,59.0 (M:59.0),26,,1,0,K.TLLDIDNTR.M,,CID,225 - 233,P35527|K1C9_HUMAN,"Keratin, type I cytoskeletal 9 - Homo sapiens"
+290,,true,2636,530.7855,1059.5560,2,0.31,9.65,26.87,46.4 (M:46.4),26,,1,0,K.TLLDIDNTR.M,,CID,225 - 233,P35527|K1C9_HUMAN,"Keratin, type I cytoskeletal 9 - Homo sapiens"
+291,,true,2550,530.7855,1059.5560,2,0.42,6.46,26.62,65.2 (M:65.2),26,,1,0,K.TLLDIDNTR.M,,CID,225 - 233,P35527|K1C9_HUMAN,"Keratin, type I cytoskeletal 9 - Homo sapiens"
+292,,true,3213,530.7856,1059.5560,2,0.48,9.74,28.68,42.1 (M:42.1),26,,1,0,K.TLLDIDNTR.M,,CID,225 - 233,P35527|K1C9_HUMAN,"Keratin, type I cytoskeletal 9 - Homo sapiens"
+293,,true,3204,530.7856,1059.5560,2,0.48,8.33,28.65,59.0 (M:59.0),26,,1,0,K.TLLDIDNTR.M,,CID,225 - 233,P35527|K1C9_HUMAN,"Keratin, type I cytoskeletal 9 - Homo sapiens"
+294,,true,2437,530.7858,1059.5560,2,0.88,10.97,26.33,32.4 (M:32.4),26,,1,0,K.TLLDIDNTR.M,,CID,225 - 233,P35527|K1C9_HUMAN,"Keratin, type I cytoskeletal 9 - Homo sapiens"
+295,,true,2450,530.7858,1059.5560,2,0.93,5.06,26.37,34.7 (M:34.7),26,,1,0,K.TLLDIDNTR.M,,CID,225 - 233,P35527|K1C9_HUMAN,"Keratin, type I cytoskeletal 9 - Homo sapiens"
+296,,true,2799,530.7859,1059.5560,2,1.12,6.01,27.37,41.7 (M:41.7),26,,1,0,K.TLLDIDNTR.M,,CID,225 - 233,P35527|K1C9_HUMAN,"Keratin, type I cytoskeletal 9 - Homo sapiens"
+297,,true,2786,530.7859,1059.5560,2,1.12,11.80,27.33,59.4 (M:59.4),26,,1,0,K.TLLDIDNTR.M,,CID,225 - 233,P35527|K1C9_HUMAN,"Keratin, type I cytoskeletal 9 - Homo sapiens"
+298,,true,3034,530.7860,1059.5560,2,1.27,8.75,28.12,66.5 (M:66.5),26,,1,0,K.TLLDIDNTR.M,,CID,225 - 233,P35527|K1C9_HUMAN,"Keratin, type I cytoskeletal 9 - Homo sapiens"
+299,,true,3051,530.7860,1059.5560,2,1.27,9.16,28.15,56.9 (M:56.9),26,,1,0,K.TLLDIDNTR.M,,CID,225 - 233,P35527|K1C9_HUMAN,"Keratin, type I cytoskeletal 9 - Homo sapiens"
+300,,true,3147,530.7860,1059.5560,2,1.35,9.55,28.42,46.3 (M:46.3),26,,1,0,K.TLLDIDNTR.M,,CID,225 - 233,P35527|K1C9_HUMAN,"Keratin, type I cytoskeletal 9 - Homo sapiens"
+301,,true,3132,530.7861,1059.5560,2,1.59,16.01,28.38,45.8 (M:45.8),26,,1,0,K.TLLDIDNTR.M,,CID,225 - 233,P35527|K1C9_HUMAN,"Keratin, type I cytoskeletal 9 - Homo sapiens"
+302,,true,2956,530.7861,1059.5560,2,1.59,7.69,27.87,42.7 (M:42.7),26,,1,0,K.TLLDIDNTR.M,,CID,225 - 233,P35527|K1C9_HUMAN,"Keratin, type I cytoskeletal 9 - Homo sapiens"
+303,,true,2970,530.7861,1059.5560,2,1.59,8.50,27.90,66.8 (M:66.8),26,,1,0,K.TLLDIDNTR.M,,CID,225 - 233,P35527|K1C9_HUMAN,"Keratin, type I cytoskeletal 9 - Homo sapiens"
+304,,true,3437,530.7868,1059.5560,2,2.89,3.64,29.22,29.3 (M:29.3),26,,1,0,K.TLLDIDNTR.M,,CID,225 - 233,P35527|K1C9_HUMAN,"Keratin, type I cytoskeletal 9 - Homo sapiens"
+305,,true,2347,530.7883,1059.5560,2,5.57,20.23,26.02,31.5 (M:31.5),26,,1,0,K.TLLDIDNTR.M,,CID,225 - 233,P35527|K1C9_HUMAN,"Keratin, type I cytoskeletal 9 - Homo sapiens"
+306,,true,19,554.2745,1106.5356,2,-1.16,7.50,15.72,65.0 (M:65.0),2,,1,0,K.AQYEEIAQR.S,,CID,360 - 368,P35908|K22E_HUMAN,"Keratin, type II cytoskeletal 2 epidermal - Homo sapiens"
+307,,true,19,554.2745,1106.5356,2,-1.16,7.50,15.72,65.0 (M:65.0),2,,1,0,K.AQYEEIAQR.S,,CID,339 - 347,P48668|K2C6C_HUMAN,"Keratin, type II cytoskeletal 6C - Homo sapiens"
+308,,true,16,554.2751,1106.5356,2,-0.08,8.19,15.62,55.8 (M:55.8),2,,1,0,K.AQYEEIAQR.S,,CID,339 - 347,P48668|K2C6C_HUMAN,"Keratin, type II cytoskeletal 6C - Homo sapiens"
+309,,true,16,554.2751,1106.5356,2,-0.08,8.19,15.62,55.8 (M:55.8),2,,1,0,K.AQYEEIAQR.S,,CID,360 - 368,P35908|K22E_HUMAN,"Keratin, type II cytoskeletal 2 epidermal - Homo sapiens"
+310,,true,3298,555.2481,1108.4825,2,-0.88,18.19,28.97,27.7 (M:27.7),17,,1,0,K.DAEAWFNEK.S,,CID,335 - 343,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+311,,true,3315,555.2481,1108.4825,2,-0.88,18.95,29.00,24.1 (M:24.1),17,,1,0,K.DAEAWFNEK.S,,CID,335 - 343,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+312,,true,3159,555.2482,1108.4825,2,-0.68,12.76,28.45,33.4 (M:33.4),17,,1,0,K.DAEAWFNEK.S,,CID,335 - 343,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+313,,true,2807,555.2485,1108.4825,2,-0.08,11.01,27.40,43.4 (M:43.4),17,,1,0,K.DAEAWFNEK.S,,CID,335 - 343,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+314,,true,2800,555.2485,1108.4825,2,-0.08,25.93,27.37,37.8 (M:37.8),17,,1,0,K.DAEAWFNEK.S,,CID,335 - 343,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+315,,true,2987,555.2487,1108.4825,2,0.21,16.34,27.93,43.8 (M:43.8),17,,1,0,K.DAEAWFNEK.S,,CID,335 - 343,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+316,,true,2712,555.2489,1108.4825,2,0.69,4.26,27.08,28.0 (M:28.0),17,,1,0,K.DAEAWFNEK.S,,CID,335 - 343,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+317,,true,3222,555.2492,1108.4825,2,1.12,10.92,28.72,57.1 (M:57.1),17,,1,0,K.DAEAWFNEK.S,,CID,335 - 343,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+318,,true,3214,555.2492,1108.4825,2,1.12,11.71,28.68,33.8 (M:33.8),17,,1,0,K.DAEAWFNEK.S,,CID,335 - 343,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+319,,true,3069,555.2493,1108.4825,2,1.36,14.80,28.20,51.8 (M:51.8),17,,1,0,K.DAEAWFNEK.S,,CID,335 - 343,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+320,,true,3052,555.2493,1108.4825,2,1.36,5.43,28.15,39.8 (M:39.8),17,,1,0,K.DAEAWFNEK.S,,CID,335 - 343,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+321,,true,2971,555.2496,1108.4825,2,1.83,9.93,27.90,44.9 (M:44.9),17,,1,0,K.DAEAWFNEK.S,,CID,335 - 343,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+322,,true,2890,555.2496,1108.4825,2,1.92,11.03,27.65,43.7 (M:43.7),17,,1,0,K.DAEAWFNEK.S,,CID,335 - 343,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+323,,true,2901,555.2496,1108.4825,2,1.92,17.72,27.68,37.3 (M:37.3),17,,1,0,K.DAEAWFNEK.S,,CID,335 - 343,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+324,,true,2625,555.2497,1108.4825,2,1.99,20.15,26.83,34.0 (M:34.0),17,,1,0,K.DAEAWFNEK.S,,CID,335 - 343,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+325,,true,2637,555.2497,1108.4825,2,1.99,25.45,26.87,38.4 (M:38.4),17,,1,0,K.DAEAWFNEK.S,,CID,335 - 343,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+326,,true,2722,555.2508,1108.4825,2,4.04,16.19,27.12,38.8 (M:38.8),17,,1,0,K.DAEAWFNEK.S,,CID,335 - 343,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+327,,true,2237,556.2909,1110.5669,2,0.33,71.20,25.73,29.8 (M:29.8),1,,1,0,R.ISISTSGGSFR.N,,CID,74 - 84,P13647|K2C5_HUMAN,"Keratin, type II cytoskeletal 5 - Homo sapiens"
+328,,true,1759,561.2974,1120.5764,2,3.32,17.99,24.80,22.8 (M:22.8),2,,1,0,R.QEYEQLIAK.N,,CID,328 - 336,P35527|K1C9_HUMAN,"Keratin, type I cytoskeletal 9 - Homo sapiens"
+329,,true,1744,561.2981,1120.5764,2,4.64,59.96,24.77,24.1 (M:24.1),2,,1,0,R.QEYEQLIAK.N,,CID,328 - 336,P35527|K1C9_HUMAN,"Keratin, type I cytoskeletal 9 - Homo sapiens"
+330,,true,2626,572.9551,1715.8438,3,-0.23,8.01,26.83,64.3 (M:64.3),15,,1,0,K.QISNLQQSISDAEQR.G,,CID,418 - 432,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+331,,true,2972,572.9559,1715.8438,3,1.18,9.20,27.90,62.5 (M:62.5),15,,1,0,K.QISNLQQSISDAEQR.G,,CID,418 - 432,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+332,,true,2874,572.9560,1715.8438,3,1.37,13.12,27.62,67.7 (M:67.7),15,,1,0,K.QISNLQQSISDAEQR.G,,CID,418 - 432,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+333,,true,2892,572.9561,1715.8438,3,1.60,5.88,27.65,60.4 (M:60.4),15,,1,0,K.QISNLQQSISDAEQR.G,,CID,418 - 432,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+334,,true,2801,572.9566,1715.8438,3,2.35,9.62,27.38,68.0 (M:68.0),15,,1,0,K.QISNLQQSISDAEQR.G,,CID,418 - 432,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+335,,true,2451,579.2958,1156.5836,2,-5.66,17.16,26.37,21.0 (M:21.0),18,,1,0,R.QGVDADINGLR.Q,,CID,251 - 261,P35527|K1C9_HUMAN,"Keratin, type I cytoskeletal 9 - Homo sapiens"
+336,,true,2359,579.2975,1156.5836,2,-2.80,31.83,26.05,41.4 (M:41.4),18,,1,0,R.QGVDADINGLR.Q,,CID,251 - 261,P35527|K1C9_HUMAN,"Keratin, type I cytoskeletal 9 - Homo sapiens"
+337,,true,2264,579.2979,1156.5836,2,-2.04,8.53,25.80,28.8 (M:28.8),18,,1,0,R.QGVDADINGLR.Q,,CID,251 - 261,P35527|K1C9_HUMAN,"Keratin, type I cytoskeletal 9 - Homo sapiens"
+338,,true,2279,579.2979,1156.5836,2,-2.04,13.20,25.83,41.3 (M:41.3),18,,1,0,R.QGVDADINGLR.Q,,CID,251 - 261,P35527|K1C9_HUMAN,"Keratin, type I cytoskeletal 9 - Homo sapiens"
+339,,true,2151,579.2979,1156.5836,2,-2.02,7.39,25.55,31.8 (M:31.8),18,,1,0,R.QGVDADINGLR.Q,,CID,251 - 261,P35527|K1C9_HUMAN,"Keratin, type I cytoskeletal 9 - Homo sapiens"
+340,,true,2168,579.2979,1156.5836,2,-2.02,8.29,25.58,50.1 (M:50.1),18,,1,0,R.QGVDADINGLR.Q,,CID,251 - 261,P35527|K1C9_HUMAN,"Keratin, type I cytoskeletal 9 - Homo sapiens"
+341,,true,1014,579.2980,1156.5836,2,-1.99,21.80,23.57,34.9 (M:34.9),18,,1,0,R.QGVDADINGLR.Q,,CID,251 - 261,P35527|K1C9_HUMAN,"Keratin, type I cytoskeletal 9 - Homo sapiens"
+342,,true,2028,579.2982,1156.5836,2,-1.54,13.18,25.33,45.7 (M:45.7),18,,1,0,R.QGVDADINGLR.Q,,CID,251 - 261,P35527|K1C9_HUMAN,"Keratin, type I cytoskeletal 9 - Homo sapiens"
+343,,true,2005,579.2982,1156.5836,2,-1.54,12.21,25.30,53.3 (M:53.3),18,,1,0,R.QGVDADINGLR.Q,,CID,251 - 261,P35527|K1C9_HUMAN,"Keratin, type I cytoskeletal 9 - Homo sapiens"
+344,,true,1861,579.2985,1156.5836,2,-1.02,14.10,25.05,40.2 (M:40.2),18,,1,0,R.QGVDADINGLR.Q,,CID,251 - 261,P35527|K1C9_HUMAN,"Keratin, type I cytoskeletal 9 - Homo sapiens"
+345,,true,1846,579.2988,1156.5836,2,-0.50,7.24,25.02,46.0 (M:46.0),18,,1,0,R.QGVDADINGLR.Q,,CID,251 - 261,P35527|K1C9_HUMAN,"Keratin, type I cytoskeletal 9 - Homo sapiens"
+346,,true,1603,579.2989,1156.5836,2,-0.38,7.35,24.48,60.0 (M:60.0),18,,1,0,R.QGVDADINGLR.Q,,CID,251 - 261,P35527|K1C9_HUMAN,"Keratin, type I cytoskeletal 9 - Homo sapiens"
+347,,true,1584,579.2989,1156.5836,2,-0.38,9.56,24.47,52.7 (M:52.7),18,,1,0,R.QGVDADINGLR.Q,,CID,251 - 261,P35527|K1C9_HUMAN,"Keratin, type I cytoskeletal 9 - Homo sapiens"
+348,,true,1746,579.2992,1156.5836,2,0.22,8.47,24.77,43.4 (M:43.4),18,,1,0,R.QGVDADINGLR.Q,,CID,251 - 261,P35527|K1C9_HUMAN,"Keratin, type I cytoskeletal 9 - Homo sapiens"
+349,,true,1731,579.2992,1156.5836,2,0.22,12.87,24.73,39.4 (M:39.4),18,,1,0,R.QGVDADINGLR.Q,,CID,251 - 261,P35527|K1C9_HUMAN,"Keratin, type I cytoskeletal 9 - Homo sapiens"
+350,,true,1429,579.2993,1156.5836,2,0.38,11.73,24.22,40.3 (M:40.3),18,,1,0,R.QGVDADINGLR.Q,,CID,251 - 261,P35527|K1C9_HUMAN,"Keratin, type I cytoskeletal 9 - Homo sapiens"
+351,,true,1411,579.2993,1156.5836,2,0.38,10.98,24.18,33.3 (M:33.3),18,,1,0,R.QGVDADINGLR.Q,,CID,251 - 261,P35527|K1C9_HUMAN,"Keratin, type I cytoskeletal 9 - Homo sapiens"
+352,,true,1272,579.3032,1156.5836,2,7.08,14.11,23.97,34.8 (M:34.8),18,,1,0,R.QGVDADINGLR.Q,,CID,251 - 261,P35527|K1C9_HUMAN,"Keratin, type I cytoskeletal 9 - Homo sapiens"
+353,,true,2691,581.2912,1160.5561,2,10.11,11.35,27.03,21.6 (M:21.6),1,,1,0,K.DAVEDLESVGK.G,,CID,86 - 96,DCD_HUMAN_Dermcidin_PEftekhari_Inoviem,>DCD_HUMAN_Dermcidin_PEftekhari_Inoviem
+354,,true,153,583.2944,1164.5775,2,-2.76,10.29,20.38,61.3 (M:61.3),16,,1,0,R.LENEIQTYR.S,,CID,442 - 450,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+355,,true,156,583.2945,1164.5775,2,-2.67,8.43,20.40,56.5 (M:56.5),16,,1,0,R.LENEIQTYR.S,,CID,442 - 450,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+356,,true,224,583.2958,1164.5775,2,-0.41,9.66,21.52,36.8 (M:36.8),16,,1,0,R.LENEIQTYR.S,,CID,442 - 450,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+357,,true,166,583.2959,1164.5775,2,-0.22,7.01,20.65,45.8 (M:45.8),16,,1,0,R.LENEIQTYR.S,,CID,442 - 450,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+358,,false,207,583.2961,1164.5775,2,0.11,26.78,21.30,20.2 (M:20.2),1,,2,0,K.YEELQVTAGR.H,,CID,360 - 369,P48668|K2C6C_HUMAN,"Keratin, type II cytoskeletal 6C - Homo sapiens"
+359,,true,207,583.2961,1164.5775,2,0.11,9.87,21.30,46.6 (M:46.6),16,,1,0,R.LENEIQTYR.S,,CID,442 - 450,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+360,,true,205,583.2961,1164.5775,2,0.11,11.24,21.25,45.4 (M:45.4),16,,1,0,R.LENEIQTYR.S,,CID,442 - 450,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+361,,true,130,583.2961,1164.5775,2,0.14,10.15,19.52,67.0 (M:67.0),16,,1,0,R.LENEIQTYR.S,,CID,442 - 450,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+362,,true,230,583.2961,1164.5775,2,0.19,18.01,21.60,59.1 (M:59.1),16,,1,0,R.LENEIQTYR.S,,CID,442 - 450,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+363,,true,168,583.2962,1164.5775,2,0.26,8.66,20.68,48.3 (M:48.3),16,,1,0,R.LENEIQTYR.S,,CID,442 - 450,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+364,,true,147,583.2963,1164.5775,2,0.47,9.32,20.18,64.1 (M:64.1),16,,1,0,R.LENEIQTYR.S,,CID,442 - 450,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+365,,true,135,583.2965,1164.5775,2,0.78,4.52,19.82,75.4 (M:75.4),16,,1,0,R.LENEIQTYR.S,,CID,442 - 450,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+366,,true,187,583.2965,1164.5775,2,0.78,8.89,20.98,56.1 (M:56.1),16,,1,0,R.LENEIQTYR.S,,CID,442 - 450,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+367,,true,185,583.2965,1164.5775,2,0.78,8.32,20.95,56.4 (M:56.4),16,,1,0,R.LENEIQTYR.S,,CID,442 - 450,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+368,,true,142,583.2966,1164.5775,2,0.98,12.56,20.08,55.9 (M:55.9),16,,1,0,R.LENEIQTYR.S,,CID,442 - 450,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+369,,true,132,583.2968,1164.5775,2,1.26,12.23,19.62,64.3 (M:64.3),16,,1,0,R.LENEIQTYR.S,,CID,442 - 450,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+370,,true,139,583.2970,1164.5775,2,1.63,8.51,20.03,57.5 (M:57.5),16,,1,0,R.LENEIQTYR.S,,CID,442 - 450,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+371,,true,1711,590.3038,1178.5932,2,-0.16,14.42,24.70,59.0 (M:59.0),19,,1,0,K.YEELQITAGR.H,,CID,377 - 386,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+372,,true,1732,590.3038,1178.5932,2,-0.16,12.02,24.73,55.3 (M:55.3),19,,1,0,K.YEELQITAGR.H,,CID,377 - 386,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+373,,true,1563,590.3038,1178.5932,2,-0.02,19.42,24.43,48.6 (M:48.6),19,,1,0,K.YEELQITAGR.H,,CID,377 - 386,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+374,,true,1835,590.3041,1178.5932,2,0.40,6.99,24.98,72.7 (M:72.7),19,,1,0,K.YEELQITAGR.H,,CID,377 - 386,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+375,,true,1585,590.3042,1178.5932,2,0.61,13.19,24.47,67.4 (M:67.4),19,,1,0,K.YEELQITAGR.H,,CID,377 - 386,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+376,,true,2132,590.3043,1178.5932,2,0.67,12.46,25.52,75.8 (M:75.8),19,,1,0,K.YEELQITAGR.H,,CID,377 - 386,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+377,,true,2152,590.3043,1178.5932,2,0.67,10.89,25.55,64.0 (M:64.0),19,,1,0,K.YEELQITAGR.H,,CID,377 - 386,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+378,,true,2249,590.3043,1178.5932,2,0.83,11.22,25.77,67.0 (M:67.0),19,,1,0,K.YEELQITAGR.H,,CID,377 - 386,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+379,,true,2266,590.3043,1178.5932,2,0.83,9.13,25.80,61.0 (M:61.0),19,,1,0,K.YEELQITAGR.H,,CID,377 - 386,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+380,,true,1847,590.3044,1178.5932,2,0.88,12.92,25.02,61.0 (M:61.0),19,,1,0,K.YEELQITAGR.H,,CID,377 - 386,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+381,,true,1989,590.3045,1178.5932,2,1.08,5.96,25.27,57.5 (M:57.5),19,,1,0,K.YEELQITAGR.H,,CID,377 - 386,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+382,,true,2006,590.3046,1178.5932,2,1.22,13.26,25.30,56.8 (M:56.8),19,,1,0,K.YEELQITAGR.H,,CID,377 - 386,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+383,,true,1391,590.3046,1178.5932,2,1.23,21.28,24.15,34.8 (M:34.8),19,,1,0,K.YEELQITAGR.H,,CID,377 - 386,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+384,,true,1412,590.3046,1178.5932,2,1.23,20.36,24.18,35.5 (M:35.5),19,,1,0,K.YEELQITAGR.H,,CID,377 - 386,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+385,,true,2361,590.3052,1178.5932,2,2.32,5.79,26.05,57.9 (M:57.9),19,,1,0,K.YEELQITAGR.H,,CID,377 - 386,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+386,,true,2349,590.3052,1178.5932,2,2.32,8.64,26.02,67.7 (M:67.7),19,,1,0,K.YEELQITAGR.H,,CID,377 - 386,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+387,,true,2426,590.3066,1178.5932,2,4.65,6.62,26.30,58.2 (M:58.2),19,,1,0,K.YEELQITAGR.H,,CID,377 - 386,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+388,,true,2439,590.3066,1178.5932,2,4.65,7.83,26.33,60.8 (M:60.8),19,,1,0,K.YEELQITAGR.H,,CID,377 - 386,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+389,,true,1252,590.3083,1178.5932,2,7.45,63.65,23.93,22.3 (M:22.3),19,,1,0,K.YEELQITAGR.H,,CID,377 - 386,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+390,,true,2534,597.3081,1192.6088,2,-5.96,12.29,26.58,43.2 (M:43.2),10,,1,0,K.YEELQVTVGR.H,,CID,381 - 390,P35908|K22E_HUMAN,"Keratin, type II cytoskeletal 2 epidermal - Homo sapiens"
+391,,true,2169,597.3086,1192.6088,2,-5.19,11.49,25.58,33.8 (M:33.8),10,,1,0,K.YEELQVTVGR.H,,CID,381 - 390,P35908|K22E_HUMAN,"Keratin, type II cytoskeletal 2 epidermal - Homo sapiens"
+392,,true,2441,597.3103,1192.6088,2,-2.34,13.90,26.33,47.5 (M:47.5),10,,1,0,K.YEELQVTVGR.H,,CID,381 - 390,P35908|K22E_HUMAN,"Keratin, type II cytoskeletal 2 epidermal - Homo sapiens"
+393,,true,2726,597.3103,1192.6088,2,-2.29,15.32,27.13,26.7 (M:26.7),10,,1,0,K.YEELQVTVGR.H,,CID,381 - 390,P35908|K22E_HUMAN,"Keratin, type II cytoskeletal 2 epidermal - Homo sapiens"
+394,,true,2452,597.3104,1192.6088,2,-2.14,12.00,26.37,38.9 (M:38.9),10,,1,0,K.YEELQVTVGR.H,,CID,381 - 390,P35908|K22E_HUMAN,"Keratin, type II cytoskeletal 2 epidermal - Homo sapiens"
+395,,true,2375,597.3105,1192.6088,2,-1.97,10.57,26.08,54.4 (M:54.4),10,,1,0,K.YEELQVTVGR.H,,CID,381 - 390,P35908|K22E_HUMAN,"Keratin, type II cytoskeletal 2 epidermal - Homo sapiens"
+396,,true,2562,597.3106,1192.6088,2,-1.77,8.86,26.65,44.4 (M:44.4),10,,1,0,K.YEELQVTVGR.H,,CID,381 - 390,P35908|K22E_HUMAN,"Keratin, type II cytoskeletal 2 epidermal - Homo sapiens"
+397,,true,2713,597.3115,1192.6088,2,-0.31,10.48,27.10,33.8 (M:33.8),10,,1,0,K.YEELQVTVGR.H,,CID,381 - 390,P35908|K22E_HUMAN,"Keratin, type II cytoskeletal 2 epidermal - Homo sapiens"
+398,,true,2640,597.3116,1192.6088,2,-0.21,10.87,26.87,27.2 (M:27.2),10,,1,0,K.YEELQVTVGR.H,,CID,381 - 390,P35908|K22E_HUMAN,"Keratin, type II cytoskeletal 2 epidermal - Homo sapiens"
+399,,true,1882,597.3130,1192.6088,2,2.15,11.00,25.08,31.5 (M:31.5),10,,1,0,K.YEELQVTVGR.H,,CID,381 - 390,P35908|K22E_HUMAN,"Keratin, type II cytoskeletal 2 epidermal - Homo sapiens"
+400,,true,2974,601.3073,1200.6099,2,-8.13,18.88,27.90,26.8 (M:26.8),15,,1,0,R.QSVEADINGLR.R,,CID,246 - 256,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+401,,true,2403,601.3085,1200.6099,2,-6.17,10.00,26.22,31.9 (M:31.9),15,,1,0,R.QSVEADINGLR.R,,CID,246 - 256,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+402,,true,2418,601.3085,1200.6099,2,-6.17,26.38,26.27,33.7 (M:33.7),15,,1,0,R.QSVEADINGLR.R,,CID,246 - 256,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+403,,true,2409,601.3090,1200.6099,2,-5.39,61.67,26.23,35.0 (M:35.0),15,,1,0,R.QSVEADINGLR.R,,CID,246 - 256,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+404,,true,2505,601.3095,1200.6099,2,-4.55,8.64,26.53,54.7 (M:54.7),15,,1,0,R.QSVEADINGLR.R,,CID,246 - 256,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+405,,true,2515,601.3095,1200.6099,2,-4.55,9.87,26.55,45.5 (M:45.5),15,,1,0,R.QSVEADINGLR.R,,CID,246 - 256,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+406,,true,2997,601.3103,1200.6099,2,-3.12,25.87,27.97,28.4 (M:28.4),15,,1,0,R.QSVEADINGLR.R,,CID,246 - 256,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+407,,true,2700,601.3103,1200.6099,2,-3.11,7.11,27.07,26.1 (M:26.1),15,,1,0,R.QSVEADINGLR.R,,CID,246 - 256,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+408,,true,2693,601.3103,1200.6099,2,-3.11,21.95,27.03,51.6 (M:51.6),15,,1,0,R.QSVEADINGLR.R,,CID,246 - 256,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+409,,true,2618,601.3112,1200.6099,2,-1.68,7.57,26.82,37.5 (M:37.5),15,,1,0,R.QSVEADINGLR.R,,CID,246 - 256,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+410,,true,2608,601.3112,1200.6099,2,-1.68,10.42,26.78,62.7 (M:62.7),15,,1,0,R.QSVEADINGLR.R,,CID,246 - 256,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+411,,true,2778,601.3120,1200.6099,2,-0.28,7.37,27.28,35.6 (M:35.6),15,,1,0,R.QSVEADINGLR.R,,CID,246 - 256,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+412,,true,2845,601.3121,1200.6099,2,-0.25,13.09,27.55,30.2 (M:30.2),15,,1,0,R.QSVEADINGLR.R,,CID,246 - 256,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+413,,true,2860,601.3121,1200.6099,2,-0.25,13.95,27.58,28.0 (M:28.0),15,,1,0,R.QSVEADINGLR.R,,CID,246 - 256,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+414,,true,2787,601.3131,1200.6099,2,1.40,21.57,27.33,49.6 (M:49.6),15,,1,0,R.QSVEADINGLR.R,,CID,246 - 256,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+415,,true,2506,604.8084,1207.6085,2,-5.23,17.33,26.53,38.0 (M:38.0),2,,1,0,R.TAAENDFVTLK.K,,CID,282 - 292,P35908|K22E_HUMAN,"Keratin, type II cytoskeletal 2 epidermal - Homo sapiens"
+416,,true,2684,604.8139,1207.6085,2,3.95,45.55,27.00,50.2 (M:50.2),2,,1,0,R.TAAENDFVTLK.K,,CID,282 - 292,P35908|K22E_HUMAN,"Keratin, type II cytoskeletal 2 epidermal - Homo sapiens"
+417,,true,3107,617.8435,1233.6717,2,0.58,23.33,28.32,35.7 (M:35.7),1,,1,1,R.LKYENEVALR.Q,,CID,236 - 245,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+418,,true,53,627.8069,1253.6000,2,-0.67,14.49,16.55,86.4 (M:86.4),1,,1,0,R.GFSSGSAVVSGGSR.R,,CID,21 - 34,P35908|K22E_HUMAN,"Keratin, type II cytoskeletal 2 epidermal - Homo sapiens"
+419,,true,5635,632.3495,1262.6871,2,-2.14,14.27,34.17,43.8 (M:43.8),5,,1,0,K.LALDVEIATYR.K,,CID,456 - 466,P48668|K2C6C_HUMAN,"Keratin, type II cytoskeletal 6C - Homo sapiens"
+420,,true,5652,632.3495,1262.6871,2,-2.14,11.95,34.20,30.7 (M:30.7),5,,1,0,K.LALDVEIATYR.K,,CID,456 - 466,P48668|K2C6C_HUMAN,"Keratin, type II cytoskeletal 6C - Homo sapiens"
+421,,true,5635,632.3495,1262.6871,2,-2.14,14.27,34.17,43.8 (M:43.8),5,,1,0,K.LALDVEIATYR.K,,CID,477 - 487,P35908|K22E_HUMAN,"Keratin, type II cytoskeletal 2 epidermal - Homo sapiens"
+422,,true,5652,632.3495,1262.6871,2,-2.14,11.95,34.20,30.7 (M:30.7),5,,1,0,K.LALDVEIATYR.K,,CID,477 - 487,P35908|K22E_HUMAN,"Keratin, type II cytoskeletal 2 epidermal - Homo sapiens"
+423,,true,5635,632.3495,1262.6871,2,-2.14,14.27,34.17,43.8 (M:43.8),5,,1,0,K.LALDVEIATYR.K,,CID,461 - 471,P13647|K2C5_HUMAN,"Keratin, type II cytoskeletal 5 - Homo sapiens"
+424,,true,5652,632.3495,1262.6871,2,-2.14,11.95,34.20,30.7 (M:30.7),5,,1,0,K.LALDVEIATYR.K,,CID,461 - 471,P13647|K2C5_HUMAN,"Keratin, type II cytoskeletal 5 - Homo sapiens"
+425,,true,5497,632.3495,1262.6871,2,-2.01,8.79,33.88,41.8 (M:41.8),5,,1,0,K.LALDVEIATYR.K,,CID,456 - 466,P48668|K2C6C_HUMAN,"Keratin, type II cytoskeletal 6C - Homo sapiens"
+426,,true,5516,632.3495,1262.6871,2,-2.01,46.87,33.92,60.8 (M:60.8),5,,1,0,K.LALDVEIATYR.K,,CID,456 - 466,P48668|K2C6C_HUMAN,"Keratin, type II cytoskeletal 6C - Homo sapiens"
+427,,true,5516,632.3495,1262.6871,2,-2.01,46.87,33.92,60.8 (M:60.8),5,,1,0,K.LALDVEIATYR.K,,CID,477 - 487,P35908|K22E_HUMAN,"Keratin, type II cytoskeletal 2 epidermal - Homo sapiens"
+428,,true,5497,632.3495,1262.6871,2,-2.01,8.79,33.88,41.8 (M:41.8),5,,1,0,K.LALDVEIATYR.K,,CID,477 - 487,P35908|K22E_HUMAN,"Keratin, type II cytoskeletal 2 epidermal - Homo sapiens"
+429,,true,5516,632.3495,1262.6871,2,-2.01,46.87,33.92,60.8 (M:60.8),5,,1,0,K.LALDVEIATYR.K,,CID,461 - 471,P13647|K2C5_HUMAN,"Keratin, type II cytoskeletal 5 - Homo sapiens"
+430,,true,5497,632.3495,1262.6871,2,-2.01,8.79,33.88,41.8 (M:41.8),5,,1,0,K.LALDVEIATYR.K,,CID,461 - 471,P13647|K2C5_HUMAN,"Keratin, type II cytoskeletal 5 - Homo sapiens"
+431,,true,5774,632.3501,1262.6871,2,-1.17,7.68,34.43,57.0 (M:57.0),5,,1,0,K.LALDVEIATYR.K,,CID,477 - 487,P35908|K22E_HUMAN,"Keratin, type II cytoskeletal 2 epidermal - Homo sapiens"
+432,,true,5774,632.3501,1262.6871,2,-1.17,7.68,34.43,57.0 (M:57.0),5,,1,0,K.LALDVEIATYR.K,,CID,461 - 471,P13647|K2C5_HUMAN,"Keratin, type II cytoskeletal 5 - Homo sapiens"
+433,,true,5774,632.3501,1262.6871,2,-1.17,7.68,34.43,57.0 (M:57.0),5,,1,0,K.LALDVEIATYR.K,,CID,456 - 466,P48668|K2C6C_HUMAN,"Keratin, type II cytoskeletal 6C - Homo sapiens"
+434,,true,2419,633.3214,1264.6299,2,-1.30,30.63,26.27,47.1 (M:47.1),17,,1,0,R.TNAENEFVTIK.K,,CID,278 - 288,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+435,,true,2782,633.3216,1264.6299,2,-1.09,7.93,27.32,70.8 (M:70.8),17,,1,0,R.TNAENEFVTIK.K,,CID,278 - 288,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+436,,true,2788,633.3218,1264.6299,2,-0.70,11.11,27.33,55.6 (M:55.6),17,,1,0,R.TNAENEFVTIK.K,,CID,278 - 288,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+437,,true,2701,633.3221,1264.6299,2,-0.19,19.97,27.07,62.2 (M:62.2),17,,1,0,R.TNAENEFVTIK.K,,CID,278 - 288,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+438,,true,2714,633.3221,1264.6299,2,-0.19,19.65,27.10,65.6 (M:65.6),17,,1,0,R.TNAENEFVTIK.K,,CID,278 - 288,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+439,,true,2628,633.3222,1264.6299,2,-0.10,12.83,26.85,66.6 (M:66.6),17,,1,0,R.TNAENEFVTIK.K,,CID,278 - 288,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+440,,true,2619,633.3222,1264.6299,2,-0.10,9.36,26.82,61.9 (M:61.9),17,,1,0,R.TNAENEFVTIK.K,,CID,278 - 288,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+441,,true,2516,633.3224,1264.6299,2,0.20,20.93,26.55,49.4 (M:49.4),17,,1,0,R.TNAENEFVTIK.K,,CID,278 - 288,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+442,,true,2428,633.3225,1264.6299,2,0.41,20.55,26.30,43.5 (M:43.5),17,,1,0,R.TNAENEFVTIK.K,,CID,278 - 288,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+443,,true,2536,633.3226,1264.6299,2,0.50,14.22,26.58,34.2 (M:34.2),17,,1,0,R.TNAENEFVTIK.K,,CID,278 - 288,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+444,,true,2877,633.3227,1264.6299,2,0.74,11.28,27.62,39.5 (M:39.5),17,,1,0,R.TNAENEFVTIK.K,,CID,278 - 288,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+445,,true,2861,633.3227,1264.6299,2,0.74,9.44,27.58,46.6 (M:46.6),17,,1,0,R.TNAENEFVTIK.K,,CID,278 - 288,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+446,,true,2341,633.3230,1264.6299,2,1.18,28.87,26.00,34.3 (M:34.3),17,,1,0,R.TNAENEFVTIK.K,,CID,278 - 288,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+447,,true,2350,633.3230,1264.6299,2,1.18,11.61,26.03,57.4 (M:57.4),17,,1,0,R.TNAENEFVTIK.K,,CID,278 - 288,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+448,,true,2251,633.3237,1264.6299,2,2.33,12.74,25.77,28.3 (M:28.3),17,,1,0,R.TNAENEFVTIK.K,,CID,278 - 288,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+449,,true,2958,633.3238,1264.6299,2,2.44,7.57,27.87,34.8 (M:34.8),17,,1,0,R.TNAENEFVTIK.K,,CID,278 - 288,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+450,,true,2238,633.3246,1264.6299,2,3.71,22.70,25.73,36.9 (M:36.9),17,,1,0,R.TNAENEFVTIK.K,,CID,278 - 288,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+451,,true,6998,639.3513,1276.7027,2,-11.51,12.30,36.88,24.5 (M:24.5),10,,1,0,K.LALDLEIATYR.T,,CID,473 - 483,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+452,,true,6334,639.3574,1276.7027,2,-1.98,17.13,35.62,36.3 (M:36.3),10,,1,0,K.LALDLEIATYR.T,,CID,473 - 483,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+453,,true,6720,639.3588,1276.7027,2,0.27,6.37,36.33,54.4 (M:54.4),10,,1,0,K.LALDLEIATYR.T,,CID,473 - 483,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+454,,true,6739,639.3588,1276.7027,2,0.27,12.47,36.37,60.9 (M:60.9),10,,1,0,K.LALDLEIATYR.T,,CID,473 - 483,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+455,,true,6598,639.3591,1276.7027,2,0.66,8.45,36.12,63.1 (M:63.1),10,,1,0,K.LALDLEIATYR.T,,CID,473 - 483,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+456,,true,6575,639.3591,1276.7027,2,0.66,10.70,36.08,76.5 (M:76.5),10,,1,0,K.LALDLEIATYR.T,,CID,473 - 483,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+457,,true,6446,639.3591,1276.7027,2,0.77,13.12,35.83,87.7 (M:87.7),10,,1,0,K.LALDLEIATYR.T,,CID,473 - 483,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+458,,true,6465,639.3591,1276.7027,2,0.79,6.44,35.87,81.0 (M:81.0),10,,1,0,K.LALDLEIATYR.T,,CID,473 - 483,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+459,,true,6873,639.3591,1276.7027,2,0.80,16.23,36.62,26.8 (M:26.8),10,,1,0,K.LALDLEIATYR.T,,CID,473 - 483,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+460,,true,6857,639.3593,1276.7027,2,0.97,8.64,36.60,36.6 (M:36.6),10,,1,0,K.LALDLEIATYR.T,,CID,473 - 483,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+461,,true,8194,651.8615,1301.7078,2,0.41,11.92,39.53,69.5 (M:69.5),10,,1,0,R.SLDLDSIIAEVK.A,,CID,344 - 355,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+462,,true,8178,651.8615,1301.7078,2,0.41,6.46,39.50,90.1 (M:90.1),10,,1,0,R.SLDLDSIIAEVK.A,,CID,344 - 355,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+463,,true,8284,651.8615,1301.7078,2,0.51,8.44,39.77,67.8 (M:67.8),10,,1,0,R.SLDLDSIIAEVK.A,,CID,344 - 355,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+464,,true,8300,651.8616,1301.7078,2,0.55,12.62,39.80,56.4 (M:56.4),10,,1,0,R.SLDLDSIIAEVK.A,,CID,344 - 355,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+465,,true,8412,651.8617,1301.7078,2,0.80,11.37,40.05,54.4 (M:54.4),10,,1,0,R.SLDLDSIIAEVK.A,,CID,344 - 355,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+466,,true,8077,651.8618,1301.7078,2,0.92,7.55,39.28,82.0 (M:82.0),10,,1,0,R.SLDLDSIIAEVK.A,,CID,344 - 355,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+467,,true,8437,651.8620,1301.7078,2,1.17,13.82,40.12,27.0 (M:27.0),10,,1,0,R.SLDLDSIIAEVK.A,,CID,344 - 355,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+468,,true,8061,651.8620,1301.7078,2,1.18,8.03,39.25,70.3 (M:70.3),10,,1,0,R.SLDLDSIIAEVK.A,,CID,344 - 355,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+469,,true,7930,651.8620,1301.7078,2,1.20,10.47,39.00,69.5 (M:69.5),10,,1,0,R.SLDLDSIIAEVK.A,,CID,344 - 355,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+470,,true,7946,651.8620,1301.7078,2,1.27,12.98,39.03,68.7 (M:68.7),10,,1,0,R.SLDLDSIIAEVK.A,,CID,344 - 355,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+471,,true,1864,665.3155,1328.6321,2,-11.75,12.60,25.05,55.8 (M:55.8),10,,1,0,K.NVQDAIADAEQR.G,,CID,425 - 436,P35908|K22E_HUMAN,"Keratin, type II cytoskeletal 2 epidermal - Homo sapiens"
+472,,true,1290,665.3193,1328.6321,2,-5.97,13.72,24.00,24.2 (M:24.2),10,,1,0,K.NVQDAIADAEQR.G,,CID,425 - 436,P35908|K22E_HUMAN,"Keratin, type II cytoskeletal 2 epidermal - Homo sapiens"
+473,,true,1899,665.3218,1328.6321,2,-2.31,15.12,25.12,26.3 (M:26.3),10,,1,0,K.NVQDAIADAEQR.G,,CID,425 - 436,P35908|K22E_HUMAN,"Keratin, type II cytoskeletal 2 epidermal - Homo sapiens"
+474,,true,1194,665.3221,1328.6321,2,-1.77,13.40,23.85,37.0 (M:37.0),10,,1,0,K.NVQDAIADAEQR.G,,CID,425 - 436,P35908|K22E_HUMAN,"Keratin, type II cytoskeletal 2 epidermal - Homo sapiens"
+475,,true,1747,665.3232,1328.6321,2,-0.19,11.69,24.77,23.9 (M:23.9),10,,1,0,K.NVQDAIADAEQR.G,,CID,425 - 436,P35908|K22E_HUMAN,"Keratin, type II cytoskeletal 2 epidermal - Homo sapiens"
+476,,true,1714,665.3233,1328.6321,2,0.04,15.46,24.72,42.5 (M:42.5),10,,1,0,K.NVQDAIADAEQR.G,,CID,425 - 436,P35908|K22E_HUMAN,"Keratin, type II cytoskeletal 2 epidermal - Homo sapiens"
+477,,true,1564,665.3234,1328.6321,2,0.20,30.98,24.43,75.4 (M:75.4),10,,1,0,K.NVQDAIADAEQR.G,,CID,425 - 436,P35908|K22E_HUMAN,"Keratin, type II cytoskeletal 2 epidermal - Homo sapiens"
+478,,true,1587,665.3234,1328.6321,2,0.20,10.73,24.47,32.1 (M:32.1),10,,1,0,K.NVQDAIADAEQR.G,,CID,425 - 436,P35908|K22E_HUMAN,"Keratin, type II cytoskeletal 2 epidermal - Homo sapiens"
+479,,true,1447,665.3237,1328.6321,2,0.64,17.24,24.25,51.5 (M:51.5),10,,1,0,K.NVQDAIADAEQR.G,,CID,425 - 436,P35908|K22E_HUMAN,"Keratin, type II cytoskeletal 2 epidermal - Homo sapiens"
+480,,true,1392,665.3269,1328.6321,2,5.36,14.55,24.15,59.3 (M:59.3),10,,1,0,K.NVQDAIADAEQR.G,,CID,425 - 436,P35908|K22E_HUMAN,"Keratin, type II cytoskeletal 2 epidermal - Homo sapiens"
+481,,true,8048,665.3670,1328.7187,2,0.50,8.64,39.22,26.6 (M:26.6),5,,1,0,R.NLDLDSIIAEVK.A,,CID,327 - 338,P48668|K2C6C_HUMAN,"Keratin, type II cytoskeletal 6C - Homo sapiens"
+482,,true,8048,665.3670,1328.7187,2,0.50,8.64,39.22,26.6 (M:26.6),5,,1,0,R.NLDLDSIIAEVK.A,,CID,332 - 343,P13647|K2C5_HUMAN,"Keratin, type II cytoskeletal 5 - Homo sapiens"
+483,,true,8030,665.3670,1328.7187,2,0.50,25.97,39.20,48.2 (M:48.2),5,,1,0,R.NLDLDSIIAEVK.A,,CID,327 - 338,P48668|K2C6C_HUMAN,"Keratin, type II cytoskeletal 6C - Homo sapiens"
+484,,true,8030,665.3670,1328.7187,2,0.50,25.97,39.20,48.2 (M:48.2),5,,1,0,R.NLDLDSIIAEVK.A,,CID,332 - 343,P13647|K2C5_HUMAN,"Keratin, type II cytoskeletal 5 - Homo sapiens"
+485,,true,8030,665.3670,1328.7187,2,0.50,25.97,39.20,48.2 (M:48.2),5,,1,0,R.NLDLDSIIAEVK.A,,CID,348 - 359,P35908|K22E_HUMAN,"Keratin, type II cytoskeletal 2 epidermal - Homo sapiens"
+486,,true,8048,665.3670,1328.7187,2,0.50,8.64,39.22,26.6 (M:26.6),5,,1,0,R.NLDLDSIIAEVK.A,,CID,348 - 359,P35908|K22E_HUMAN,"Keratin, type II cytoskeletal 2 epidermal - Homo sapiens"
+487,,true,7916,665.3671,1328.7187,2,0.68,26.26,38.97,25.6 (M:25.6),5,,1,0,R.NLDLDSIIAEVK.A,,CID,348 - 359,P35908|K22E_HUMAN,"Keratin, type II cytoskeletal 2 epidermal - Homo sapiens"
+488,,true,7916,665.3671,1328.7187,2,0.68,26.26,38.97,25.6 (M:25.6),5,,1,0,R.NLDLDSIIAEVK.A,,CID,332 - 343,P13647|K2C5_HUMAN,"Keratin, type II cytoskeletal 5 - Homo sapiens"
+489,,true,7916,665.3671,1328.7187,2,0.68,26.26,38.97,25.6 (M:25.6),5,,1,0,R.NLDLDSIIAEVK.A,,CID,327 - 338,P48668|K2C6C_HUMAN,"Keratin, type II cytoskeletal 6C - Homo sapiens"
+490,,true,8143,665.3799,1328.7187,2,19.94,21.11,39.45,34.1 (M:34.1),5,,1,0,R.NLDLDSIIAEVK.A,,CID,348 - 359,P35908|K22E_HUMAN,"Keratin, type II cytoskeletal 2 epidermal - Homo sapiens"
+491,,true,8143,665.3799,1328.7187,2,19.94,21.11,39.45,34.1 (M:34.1),5,,1,0,R.NLDLDSIIAEVK.A,,CID,327 - 338,P48668|K2C6C_HUMAN,"Keratin, type II cytoskeletal 6C - Homo sapiens"
+492,,true,8143,665.3799,1328.7187,2,19.94,21.11,39.45,34.1 (M:34.1),5,,1,0,R.NLDLDSIIAEVK.A,,CID,332 - 343,P13647|K2C5_HUMAN,"Keratin, type II cytoskeletal 5 - Homo sapiens"
+493,,true,8162,665.3823,1328.7187,2,23.49,68.38,39.48,32.2 (M:32.2),5,,1,0,R.NLDLDSIIAEVK.A,,CID,327 - 338,P48668|K2C6C_HUMAN,"Keratin, type II cytoskeletal 6C - Homo sapiens"
+494,,true,8162,665.3823,1328.7187,2,23.49,68.38,39.48,32.2 (M:32.2),5,,1,0,R.NLDLDSIIAEVK.A,,CID,348 - 359,P35908|K22E_HUMAN,"Keratin, type II cytoskeletal 2 epidermal - Homo sapiens"
+495,,true,8162,665.3823,1328.7187,2,23.49,68.38,39.48,32.2 (M:32.2),5,,1,0,R.NLDLDSIIAEVK.A,,CID,332 - 343,P13647|K2C5_HUMAN,"Keratin, type II cytoskeletal 5 - Homo sapiens"
+496,,true,5518,666.3256,1995.9637,3,-4.36,11.84,33.93,25.8 (M:25.8),5,,1,0,K.ELTTEIDNNIEQISSYK.S,,CID,346 - 362,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+497,,true,3607,679.3438,1356.6885,2,-11.37,15.32,29.50,48.8 (M:48.8),7,,1,0,K.LNDLEDALQQAK.E,,CID,444 - 455,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+498,,true,3875,679.3510,1356.6885,2,-0.77,9.63,30.10,23.8 (M:23.8),7,,1,0,K.LNDLEDALQQAK.E,,CID,444 - 455,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+499,,true,4029,679.3519,1356.6885,2,0.54,30.99,30.35,28.7 (M:28.7),7,,1,0,K.LNDLEDALQQAK.E,,CID,444 - 455,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+500,,true,3715,679.3524,1356.6885,2,1.34,23.34,29.82,48.6 (M:48.6),7,,1,0,K.LNDLEDALQQAK.E,,CID,444 - 455,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+501,,true,3728,679.3524,1356.6885,2,1.34,12.50,29.85,46.6 (M:46.6),7,,1,0,K.LNDLEDALQQAK.E,,CID,444 - 455,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+502,,true,3854,679.3525,1356.6885,2,1.41,18.91,30.07,28.6 (M:28.6),7,,1,0,K.LNDLEDALQQAK.E,,CID,444 - 455,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+503,,true,3463,679.3552,1356.6885,2,5.46,24.84,29.25,26.8 (M:26.8),7,,1,0,K.LNDLEDALQQAK.E,,CID,444 - 455,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+504,,true,6805,685.3805,2053.1168,3,1.40,11.61,36.50,24.3 (M:24.3),1,,1,0,K.ILTATVDNANVLLQIDNAR.L,,CID,176 - 194,P02533|K1C14_HUMAN,"Keratin, type I cytoskeletal 14 - Homo sapiens"
+505,,true,148,691.3274,1380.6409,2,-0.44,12.03,20.22,80.0 (M:80.0),24,,1,0,R.ALEESNYELEGK.I,,CID,166 - 177,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+506,,true,245,691.3274,1380.6409,2,-0.42,7.35,21.82,87.6 (M:87.6),24,,1,0,R.ALEESNYELEGK.I,,CID,166 - 177,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+507,,true,247,691.3274,1380.6409,2,-0.42,5.82,21.85,87.9 (M:87.9),24,,1,0,R.ALEESNYELEGK.I,,CID,166 - 177,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+508,,true,175,691.3275,1380.6409,2,-0.36,7.62,20.77,77.3 (M:77.3),24,,1,0,R.ALEESNYELEGK.I,,CID,166 - 177,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+509,,true,174,691.3275,1380.6409,2,-0.36,11.04,20.73,74.0 (M:74.0),24,,1,0,R.ALEESNYELEGK.I,,CID,166 - 177,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+510,,true,299,691.3275,1380.6409,2,-0.32,7.78,22.08,74.5 (M:74.5),24,,1,0,R.ALEESNYELEGK.I,,CID,166 - 177,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+511,,true,777,691.3276,1380.6409,2,-0.20,11.69,23.20,45.7 (M:45.7),24,,1,0,R.ALEESNYELEGK.I,,CID,166 - 177,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+512,,true,225,691.3277,1380.6409,2,-0.06,6.53,21.53,84.4 (M:84.4),24,,1,0,R.ALEESNYELEGK.I,,CID,166 - 177,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+513,,true,208,691.3278,1380.6409,2,0.06,10.80,21.32,69.6 (M:69.6),24,,1,0,R.ALEESNYELEGK.I,,CID,166 - 177,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+514,,true,227,691.3279,1380.6409,2,0.29,10.30,21.57,77.4 (M:77.4),24,,1,0,R.ALEESNYELEGK.I,,CID,166 - 177,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+515,,true,158,691.3280,1380.6409,2,0.36,7.73,20.47,80.0 (M:80.0),24,,1,0,R.ALEESNYELEGK.I,,CID,166 - 177,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+516,,true,159,691.3280,1380.6409,2,0.36,5.69,20.50,90.2 (M:90.2),24,,1,0,R.ALEESNYELEGK.I,,CID,166 - 177,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+517,,true,483,691.3280,1380.6409,2,0.46,5.67,22.63,74.6 (M:74.6),24,,1,0,R.ALEESNYELEGK.I,,CID,166 - 177,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+518,,true,492,691.3280,1380.6409,2,0.46,16.19,22.67,49.6 (M:49.6),24,,1,0,R.ALEESNYELEGK.I,,CID,166 - 177,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+519,,true,311,691.3281,1380.6409,2,0.48,9.98,22.12,59.2 (M:59.2),24,,1,0,R.ALEESNYELEGK.I,,CID,166 - 177,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+520,,true,756,691.3281,1380.6409,2,0.49,16.30,23.17,55.5 (M:55.5),24,,1,0,R.ALEESNYELEGK.I,,CID,166 - 177,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+521,,true,206,691.3281,1380.6409,2,0.53,5.60,21.28,77.7 (M:77.7),24,,1,0,R.ALEESNYELEGK.I,,CID,166 - 177,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+522,,true,191,691.3282,1380.6409,2,0.71,4.06,21.03,78.8 (M:78.8),24,,1,0,R.ALEESNYELEGK.I,,CID,166 - 177,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+523,,true,937,691.3283,1380.6409,2,0.81,15.41,23.45,28.9 (M:28.9),24,,1,0,R.ALEESNYELEGK.I,,CID,166 - 177,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+524,,true,391,691.3283,1380.6409,2,0.82,11.88,22.38,74.3 (M:74.3),24,,1,0,R.ALEESNYELEGK.I,,CID,166 - 177,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+525,,true,383,691.3283,1380.6409,2,0.82,10.81,22.35,74.9 (M:74.9),24,,1,0,R.ALEESNYELEGK.I,,CID,166 - 177,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+526,,true,188,691.3284,1380.6409,2,0.94,5.29,21.00,82.6 (M:82.6),24,,1,0,R.ALEESNYELEGK.I,,CID,166 - 177,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+527,,true,605,691.3285,1380.6409,2,1.11,18.71,22.88,56.1 (M:56.1),24,,1,0,R.ALEESNYELEGK.I,,CID,166 - 177,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+528,,true,622,691.3285,1380.6409,2,1.11,12.21,22.92,59.6 (M:59.6),24,,1,0,R.ALEESNYELEGK.I,,CID,166 - 177,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+529,,true,6012,692.3464,1382.6830,2,-3.50,53.73,34.97,20.9 (M:20.9),12,,1,0,K.SLNNQFASFIDK.V,,CID,186 - 197,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+530,,true,6028,692.3473,1382.6830,2,-2.17,39.35,34.98,23.7 (M:23.7),12,,1,0,K.SLNNQFASFIDK.V,,CID,186 - 197,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+531,,true,5619,692.3483,1382.6830,2,-0.77,12.18,34.15,86.6 (M:86.6),12,,1,0,K.SLNNQFASFIDK.V,,CID,186 - 197,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+532,,true,5637,692.3483,1382.6830,2,-0.77,10.43,34.18,86.5 (M:86.5),12,,1,0,K.SLNNQFASFIDK.V,,CID,186 - 197,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+533,,true,5499,692.3483,1382.6830,2,-0.74,10.55,33.90,48.3 (M:48.3),12,,1,0,K.SLNNQFASFIDK.V,,CID,186 - 197,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+534,,true,5486,692.3483,1382.6830,2,-0.74,12.17,33.87,66.9 (M:66.9),12,,1,0,K.SLNNQFASFIDK.V,,CID,186 - 197,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+535,,true,5760,692.3484,1382.6830,2,-0.55,12.81,34.40,81.3 (M:81.3),12,,1,0,K.SLNNQFASFIDK.V,,CID,186 - 197,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+536,,true,5884,692.3484,1382.6830,2,-0.54,18.63,34.70,92.4 (M:92.4),12,,1,0,K.SLNNQFASFIDK.V,,CID,186 - 197,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+537,,true,5870,692.3484,1382.6830,2,-0.54,14.93,34.68,42.9 (M:42.9),12,,1,0,K.SLNNQFASFIDK.V,,CID,186 - 197,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+538,,true,5394,692.3487,1382.6830,2,-0.10,13.13,33.62,73.2 (M:73.2),12,,1,0,K.SLNNQFASFIDK.V,,CID,186 - 197,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+539,,true,5775,692.3489,1382.6830,2,0.17,16.21,34.43,59.9 (M:59.9),12,,1,0,K.SLNNQFASFIDK.V,,CID,186 - 197,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+540,,true,5380,692.3489,1382.6830,2,0.21,10.12,33.58,49.6 (M:49.6),12,,1,0,K.SLNNQFASFIDK.V,,CID,186 - 197,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+541,,true,2420,695.8429,1389.6736,2,-1.62,10.45,26.27,87.6 (M:87.6),29,,1,0,K.QSLEASLAETEGR.Y,,CID,387 - 399,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+542,,true,2429,695.8429,1389.6736,2,-1.62,10.26,26.30,116.6 (M:116.6),29,,1,0,K.QSLEASLAETEGR.Y,,CID,387 - 399,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+543,,true,2790,695.8433,1389.6736,2,-1.12,10.41,27.35,101.2 (M:101.2),29,,1,0,K.QSLEASLAETEGR.Y,,CID,387 - 399,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+544,,true,2702,695.8437,1389.6736,2,-0.52,7.04,27.07,128.0 (M:128.0),29,,1,0,K.QSLEASLAETEGR.Y,,CID,387 - 399,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+545,,true,2716,695.8437,1389.6736,2,-0.52,6.07,27.10,97.2 (M:97.2),29,,1,0,K.QSLEASLAETEGR.Y,,CID,387 - 399,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+546,,true,2629,695.8439,1389.6736,2,-0.30,11.29,26.85,131.7 (M:131.7),29,,1,0,K.QSLEASLAETEGR.Y,,CID,387 - 399,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+547,,true,2620,695.8439,1389.6736,2,-0.30,9.99,26.82,83.9 (M:83.9),29,,1,0,K.QSLEASLAETEGR.Y,,CID,387 - 399,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+548,,true,2252,695.8441,1389.6736,2,0.06,29.62,25.77,83.5 (M:83.5),29,,1,0,K.QSLEASLAETEGR.Y,,CID,387 - 399,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+549,,true,2240,695.8441,1389.6736,2,0.06,12.96,25.73,69.3 (M:69.3),29,,1,0,K.QSLEASLAETEGR.Y,,CID,387 - 399,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+550,,true,2351,695.8442,1389.6736,2,0.11,5.64,26.03,82.7 (M:82.7),29,,1,0,K.QSLEASLAETEGR.Y,,CID,387 - 399,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+551,,true,2342,695.8442,1389.6736,2,0.11,14.69,26.00,90.6 (M:90.6),29,,1,0,K.QSLEASLAETEGR.Y,,CID,387 - 399,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+552,,true,3026,695.8442,1389.6736,2,0.13,12.54,28.10,90.3 (M:90.3),29,,1,0,K.QSLEASLAETEGR.Y,,CID,387 - 399,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+553,,true,2518,695.8442,1389.6736,2,0.23,11.53,26.55,75.3 (M:75.3),29,,1,0,K.QSLEASLAETEGR.Y,,CID,387 - 399,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+554,,true,2537,695.8442,1389.6736,2,0.23,30.89,26.58,60.9 (M:60.9),29,,1,0,K.QSLEASLAETEGR.Y,,CID,387 - 399,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+555,,true,2878,695.8443,1389.6736,2,0.29,7.65,27.62,90.4 (M:90.4),29,,1,0,K.QSLEASLAETEGR.Y,,CID,387 - 399,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+556,,true,3038,695.8444,1389.6736,2,0.52,7.86,28.13,84.1 (M:84.1),29,,1,0,K.QSLEASLAETEGR.Y,,CID,387 - 399,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+557,,true,2783,695.8449,1389.6736,2,1.21,6.22,27.32,95.0 (M:95.0),29,,1,0,K.QSLEASLAETEGR.Y,,CID,387 - 399,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+558,,true,3121,695.8454,1389.6736,2,1.91,9.55,28.35,69.4 (M:69.4),29,,1,0,K.QSLEASLAETEGR.Y,,CID,387 - 399,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+559,,true,2959,695.8455,1389.6736,2,2.08,7.28,27.88,110.1 (M:110.1),29,,1,0,K.QSLEASLAETEGR.Y,,CID,387 - 399,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+560,,true,2946,695.8458,1389.6736,2,2.41,8.13,27.85,105.4 (M:105.4),29,,1,0,K.QSLEASLAETEGR.Y,,CID,387 - 399,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+561,,true,2120,695.8459,1389.6736,2,2.59,11.42,25.48,59.7 (M:59.7),29,,1,0,K.QSLEASLAETEGR.Y,,CID,387 - 399,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+562,,true,2138,695.8459,1389.6736,2,2.69,33.86,25.52,23.0 (M:23.0),29,,1,0,K.QSLEASLAETEGR.Y,,CID,387 - 399,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+563,,true,2862,695.8466,1389.6736,2,3.56,9.12,27.58,101.6 (M:101.6),29,,1,0,K.QSLEASLAETEGR.Y,,CID,387 - 399,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+564,,true,6481,704.3556,1406.7042,2,-5.28,13.86,35.90,36.6 (M:36.6),3,,1,0,K.ADTLTDEINFLR.A,,CID,288 - 299,P48668|K2C6C_HUMAN,"Keratin, type II cytoskeletal 6C - Homo sapiens"
+565,,true,6515,704.3593,1406.7042,2,-0.14,13.07,35.97,50.2 (M:50.2),3,,1,0,K.ADTLTDEINFLR.A,,CID,288 - 299,P48668|K2C6C_HUMAN,"Keratin, type II cytoskeletal 6C - Homo sapiens"
+566,,true,6614,704.3613,1406.7042,2,2.79,7.59,36.15,29.6 (M:29.6),3,,1,0,K.ADTLTDEINFLR.A,,CID,288 - 299,P48668|K2C6C_HUMAN,"Keratin, type II cytoskeletal 6C - Homo sapiens"
+567,,true,7883,730.9026,1459.7922,2,-1.09,31.18,38.92,36.3 (M:36.3),5,,1,0,K.VDLLNQEIEFLK.V,,CID,309 - 320,P35908|K22E_HUMAN,"Keratin, type II cytoskeletal 2 epidermal - Homo sapiens"
+568,,true,7655,730.9033,1459.7922,2,-0.18,15.43,38.42,73.9 (M:73.9),5,,1,0,K.VDLLNQEIEFLK.V,,CID,309 - 320,P35908|K22E_HUMAN,"Keratin, type II cytoskeletal 2 epidermal - Homo sapiens"
+569,,true,7674,730.9036,1459.7922,2,0.30,7.49,38.45,72.1 (M:72.1),5,,1,0,K.VDLLNQEIEFLK.V,,CID,309 - 320,P35908|K22E_HUMAN,"Keratin, type II cytoskeletal 2 epidermal - Homo sapiens"
+570,,true,7777,730.9037,1459.7922,2,0.43,14.97,38.67,91.2 (M:91.2),5,,1,0,K.VDLLNQEIEFLK.V,,CID,309 - 320,P35908|K22E_HUMAN,"Keratin, type II cytoskeletal 2 epidermal - Homo sapiens"
+571,,true,7794,730.9037,1459.7922,2,0.43,14.01,38.70,64.5 (M:64.5),5,,1,0,K.VDLLNQEIEFLK.V,,CID,309 - 320,P35908|K22E_HUMAN,"Keratin, type II cytoskeletal 2 epidermal - Homo sapiens"
+572,,true,5976,737.7043,2210.0968,3,-2.58,10.19,34.90,23.4 (M:23.4),14,,1,0,R.LGEHNIDVLEGNEQFINAAK.I,,CID,58 - 77,P00761|TRYP_PIG,Trypsin precursor - Sus scrofa
+573,,true,5840,737.7045,2210.0968,3,-2.29,9.51,34.62,59.6 (M:59.6),14,,1,0,R.LGEHNIDVLEGNEQFINAAK.I,,CID,58 - 77,P00761|TRYP_PIG,Trypsin precursor - Sus scrofa
+574,,true,5828,737.7047,2210.0968,3,-2.07,10.56,34.58,73.8 (M:73.8),14,,1,0,R.LGEHNIDVLEGNEQFINAAK.I,,CID,58 - 77,P00761|TRYP_PIG,Trypsin precursor - Sus scrofa
+575,,true,5692,737.7054,2210.0968,3,-1.07,10.21,34.27,104.7 (M:104.7),14,,1,0,R.LGEHNIDVLEGNEQFINAAK.I,,CID,58 - 77,P00761|TRYP_PIG,Trypsin precursor - Sus scrofa
+576,,true,5712,737.7054,2210.0968,3,-1.07,8.63,34.30,82.6 (M:82.6),14,,1,0,R.LGEHNIDVLEGNEQFINAAK.I,,CID,58 - 77,P00761|TRYP_PIG,Trypsin precursor - Sus scrofa
+577,,true,5109,737.7061,2210.0968,3,-0.16,18.00,33.03,54.9 (M:54.9),14,,1,0,R.LGEHNIDVLEGNEQFINAAK.I,,CID,58 - 77,P00761|TRYP_PIG,Trypsin precursor - Sus scrofa
+578,,true,5564,737.7061,2210.0968,3,-0.10,4.70,34.02,110.2 (M:110.2),14,,1,0,R.LGEHNIDVLEGNEQFINAAK.I,,CID,58 - 77,P00761|TRYP_PIG,Trypsin precursor - Sus scrofa
+579,,true,5188,737.7061,2210.0968,3,-0.09,9.80,33.25,86.2 (M:86.2),14,,1,0,R.LGEHNIDVLEGNEQFINAAK.I,,CID,58 - 77,P00761|TRYP_PIG,Trypsin precursor - Sus scrofa
+580,,true,5322,737.7062,2210.0968,3,-0.04,5.39,33.50,96.2 (M:96.2),14,,1,0,R.LGEHNIDVLEGNEQFINAAK.I,,CID,58 - 77,P00761|TRYP_PIG,Trypsin precursor - Sus scrofa
+581,,true,5573,737.7062,2210.0968,3,-0.02,5.57,34.05,94.9 (M:94.9),14,,1,0,R.LGEHNIDVLEGNEQFINAAK.I,,CID,58 - 77,P00761|TRYP_PIG,Trypsin precursor - Sus scrofa
+582,,true,5457,737.7062,2210.0968,3,-0.02,2.72,33.78,126.1 (M:126.1),14,,1,0,R.LGEHNIDVLEGNEQFINAAK.I,,CID,58 - 77,P00761|TRYP_PIG,Trypsin precursor - Sus scrofa
+583,,true,5447,737.7062,2210.0968,3,-0.02,4.79,33.73,102.4 (M:102.4),14,,1,0,R.LGEHNIDVLEGNEQFINAAK.I,,CID,58 - 77,P00761|TRYP_PIG,Trypsin precursor - Sus scrofa
+584,,true,5343,737.7062,2210.0968,3,0.00,6.60,33.53,105.2 (M:105.2),14,,1,0,R.LGEHNIDVLEGNEQFINAAK.I,,CID,58 - 77,P00761|TRYP_PIG,Trypsin precursor - Sus scrofa
+585,,true,5209,737.7062,2210.0968,3,0.05,8.73,33.27,100.2 (M:100.2),14,,1,0,R.LGEHNIDVLEGNEQFINAAK.I,,CID,58 - 77,P00761|TRYP_PIG,Trypsin precursor - Sus scrofa
+586,,true,5136,738.3762,1474.7416,2,-2.51,10.58,33.12,52.9 (M:52.9),4,,1,0,K.WELLQQVDTSTR.T,,CID,212 - 223,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+587,,true,5226,738.3778,1474.7416,2,-0.41,8.96,33.30,24.3 (M:24.3),4,,1,0,K.WELLQQVDTSTR.T,,CID,212 - 223,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+588,,true,5110,738.3780,1474.7416,2,-0.09,11.36,33.03,38.6 (M:38.6),4,,1,0,K.WELLQQVDTSTR.T,,CID,212 - 223,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+589,,true,5030,738.3788,1474.7416,2,0.92,9.32,32.78,67.6 (M:67.6),4,,1,0,K.WELLQQVDTSTR.T,,CID,212 - 223,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+590,,true,2483,738.3959,1474.7780,2,-0.52,16.21,26.43,64.0 (M:64.0),20,,1,0,R.FLEQQNQVLQTK.W,,CID,204 - 215,P35908|K22E_HUMAN,"Keratin, type II cytoskeletal 2 epidermal - Homo sapiens"
+591,,true,2483,738.3959,1474.7780,2,-0.52,16.21,26.43,64.0 (M:64.0),20,,1,0,R.FLEQQNQVLQTK.W,,CID,200 - 211,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+592,,true,1883,738.3960,1474.7780,2,-0.42,8.40,25.08,100.4 (M:100.4),20,,1,0,R.FLEQQNQVLQTK.W,,CID,204 - 215,P35908|K22E_HUMAN,"Keratin, type II cytoskeletal 2 epidermal - Homo sapiens"
+593,,true,1900,738.3960,1474.7780,2,-0.42,7.14,25.12,76.1 (M:76.1),20,,1,0,R.FLEQQNQVLQTK.W,,CID,204 - 215,P35908|K22E_HUMAN,"Keratin, type II cytoskeletal 2 epidermal - Homo sapiens"
+594,,true,1883,738.3960,1474.7780,2,-0.42,8.40,25.08,100.4 (M:100.4),20,,1,0,R.FLEQQNQVLQTK.W,,CID,200 - 211,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+595,,true,1900,738.3960,1474.7780,2,-0.42,7.14,25.12,76.1 (M:76.1),20,,1,0,R.FLEQQNQVLQTK.W,,CID,200 - 211,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+596,,true,2293,738.3961,1474.7780,2,-0.29,18.53,25.87,81.6 (M:81.6),20,,1,0,R.FLEQQNQVLQTK.W,,CID,200 - 211,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+597,,true,2293,738.3961,1474.7780,2,-0.29,18.53,25.87,81.6 (M:81.6),20,,1,0,R.FLEQQNQVLQTK.W,,CID,204 - 215,P35908|K22E_HUMAN,"Keratin, type II cytoskeletal 2 epidermal - Homo sapiens"
+598,,true,2069,738.3961,1474.7780,2,-0.23,6.12,25.40,55.4 (M:55.4),20,,1,0,R.FLEQQNQVLQTK.W,,CID,200 - 211,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+599,,true,2069,738.3961,1474.7780,2,-0.23,6.12,25.40,55.4 (M:55.4),20,,1,0,R.FLEQQNQVLQTK.W,,CID,204 - 215,P35908|K22E_HUMAN,"Keratin, type II cytoskeletal 2 epidermal - Homo sapiens"
+600,,true,2049,738.3962,1474.7780,2,-0.07,13.16,25.37,70.3 (M:70.3),20,,1,0,R.FLEQQNQVLQTK.W,,CID,200 - 211,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+601,,true,2049,738.3962,1474.7780,2,-0.07,13.16,25.37,70.3 (M:70.3),20,,1,0,R.FLEQQNQVLQTK.W,,CID,204 - 215,P35908|K22E_HUMAN,"Keratin, type II cytoskeletal 2 epidermal - Homo sapiens"
+602,,true,2306,738.3963,1474.7780,2,0.09,13.30,25.90,65.7 (M:65.7),20,,1,0,R.FLEQQNQVLQTK.W,,CID,204 - 215,P35908|K22E_HUMAN,"Keratin, type II cytoskeletal 2 epidermal - Homo sapiens"
+603,,true,2306,738.3963,1474.7780,2,0.09,13.30,25.90,65.7 (M:65.7),20,,1,0,R.FLEQQNQVLQTK.W,,CID,200 - 211,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+604,,true,2181,738.3964,1474.7780,2,0.12,11.03,25.62,90.0 (M:90.0),20,,1,0,R.FLEQQNQVLQTK.W,,CID,200 - 211,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+605,,true,2194,738.3964,1474.7780,2,0.12,17.72,25.65,76.6 (M:76.6),20,,1,0,R.FLEQQNQVLQTK.W,,CID,200 - 211,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+606,,true,2181,738.3964,1474.7780,2,0.12,11.03,25.62,90.0 (M:90.0),20,,1,0,R.FLEQQNQVLQTK.W,,CID,204 - 215,P35908|K22E_HUMAN,"Keratin, type II cytoskeletal 2 epidermal - Homo sapiens"
+607,,true,2194,738.3964,1474.7780,2,0.12,17.72,25.65,76.6 (M:76.6),20,,1,0,R.FLEQQNQVLQTK.W,,CID,204 - 215,P35908|K22E_HUMAN,"Keratin, type II cytoskeletal 2 epidermal - Homo sapiens"
+608,,true,2566,738.3965,1474.7780,2,0.24,55.63,26.65,20.5 (M:20.5),20,,1,0,R.FLEQQNQVLQTK.W,,CID,204 - 215,P35908|K22E_HUMAN,"Keratin, type II cytoskeletal 2 epidermal - Homo sapiens"
+609,,true,2566,738.3965,1474.7780,2,0.24,55.63,26.65,20.5 (M:20.5),20,,1,0,R.FLEQQNQVLQTK.W,,CID,200 - 211,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+610,,true,1769,738.3966,1474.7780,2,0.38,7.83,24.83,81.2 (M:81.2),20,,1,0,R.FLEQQNQVLQTK.W,,CID,204 - 215,P35908|K22E_HUMAN,"Keratin, type II cytoskeletal 2 epidermal - Homo sapiens"
+611,,true,1769,738.3966,1474.7780,2,0.38,7.83,24.83,81.2 (M:81.2),20,,1,0,R.FLEQQNQVLQTK.W,,CID,200 - 211,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+612,,true,1631,738.3966,1474.7780,2,0.47,12.82,24.55,78.8 (M:78.8),20,,1,0,R.FLEQQNQVLQTK.W,,CID,200 - 211,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+613,,true,1631,738.3966,1474.7780,2,0.47,12.82,24.55,78.8 (M:78.8),20,,1,0,R.FLEQQNQVLQTK.W,,CID,204 - 215,P35908|K22E_HUMAN,"Keratin, type II cytoskeletal 2 epidermal - Homo sapiens"
+614,,true,1448,738.3967,1474.7780,2,0.61,11.05,24.25,71.4 (M:71.4),20,,1,0,R.FLEQQNQVLQTK.W,,CID,204 - 215,P35908|K22E_HUMAN,"Keratin, type II cytoskeletal 2 epidermal - Homo sapiens"
+615,,true,1466,738.3967,1474.7780,2,0.61,18.27,24.28,68.2 (M:68.2),20,,1,0,R.FLEQQNQVLQTK.W,,CID,200 - 211,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+616,,true,1448,738.3967,1474.7780,2,0.61,11.05,24.25,71.4 (M:71.4),20,,1,0,R.FLEQQNQVLQTK.W,,CID,200 - 211,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+617,,true,1466,738.3967,1474.7780,2,0.61,18.27,24.28,68.2 (M:68.2),20,,1,0,R.FLEQQNQVLQTK.W,,CID,204 - 215,P35908|K22E_HUMAN,"Keratin, type II cytoskeletal 2 epidermal - Homo sapiens"
+618,,true,1761,738.3968,1474.7780,2,0.69,10.50,24.80,73.6 (M:73.6),20,,1,0,R.FLEQQNQVLQTK.W,,CID,204 - 215,P35908|K22E_HUMAN,"Keratin, type II cytoskeletal 2 epidermal - Homo sapiens"
+619,,true,1761,738.3968,1474.7780,2,0.69,10.50,24.80,73.6 (M:73.6),20,,1,0,R.FLEQQNQVLQTK.W,,CID,200 - 211,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+620,,true,1622,738.3970,1474.7780,2,0.94,10.53,24.53,78.2 (M:78.2),20,,1,0,R.FLEQQNQVLQTK.W,,CID,204 - 215,P35908|K22E_HUMAN,"Keratin, type II cytoskeletal 2 epidermal - Homo sapiens"
+621,,true,1622,738.3970,1474.7780,2,0.94,10.53,24.53,78.2 (M:78.2),20,,1,0,R.FLEQQNQVLQTK.W,,CID,200 - 211,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+622,,true,1292,738.3971,1474.7780,2,1.12,15.70,24.00,53.1 (M:53.1),20,,1,0,R.FLEQQNQVLQTK.W,,CID,200 - 211,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+623,,true,1274,738.3971,1474.7780,2,1.12,25.67,23.97,60.6 (M:60.6),20,,1,0,R.FLEQQNQVLQTK.W,,CID,204 - 215,P35908|K22E_HUMAN,"Keratin, type II cytoskeletal 2 epidermal - Homo sapiens"
+624,,true,1292,738.3971,1474.7780,2,1.12,15.70,24.00,53.1 (M:53.1),20,,1,0,R.FLEQQNQVLQTK.W,,CID,204 - 215,P35908|K22E_HUMAN,"Keratin, type II cytoskeletal 2 epidermal - Homo sapiens"
+625,,true,1274,738.3971,1474.7780,2,1.12,25.67,23.97,60.6 (M:60.6),20,,1,0,R.FLEQQNQVLQTK.W,,CID,200 - 211,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+626,,true,2384,738.3971,1474.7780,2,1.16,8.85,26.12,69.6 (M:69.6),20,,1,0,R.FLEQQNQVLQTK.W,,CID,200 - 211,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+627,,true,2384,738.3971,1474.7780,2,1.16,8.85,26.12,69.6 (M:69.6),20,,1,0,R.FLEQQNQVLQTK.W,,CID,204 - 215,P35908|K22E_HUMAN,"Keratin, type II cytoskeletal 2 epidermal - Homo sapiens"
+628,,true,2392,738.3983,1474.7780,2,2.68,9.64,26.15,71.7 (M:71.7),20,,1,0,R.FLEQQNQVLQTK.W,,CID,204 - 215,P35908|K22E_HUMAN,"Keratin, type II cytoskeletal 2 epidermal - Homo sapiens"
+629,,true,2392,738.3983,1474.7780,2,2.68,9.64,26.15,71.7 (M:71.7),20,,1,0,R.FLEQQNQVLQTK.W,,CID,200 - 211,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+630,,true,5397,763.8787,1525.7446,2,-1.20,11.34,33.62,27.6 (M:27.6),5,,1,0,K.SSGSSYPSLLQCLK.A,Carbamidomethyl: 12,CID,134 - 147,P00761|TRYP_PIG,Trypsin precursor - Sus scrofa
+631,,true,5381,763.8792,1525.7446,2,-0.59,38.87,33.58,41.4 (M:41.4),5,,1,0,K.SSGSSYPSLLQCLK.A,Carbamidomethyl: 12,CID,134 - 147,P00761|TRYP_PIG,Trypsin precursor - Sus scrofa
+632,,true,5487,763.8792,1525.7446,2,-0.47,12.91,33.87,67.7 (M:67.7),5,,1,0,K.SSGSSYPSLLQCLK.A,Carbamidomethyl: 12,CID,134 - 147,P00761|TRYP_PIG,Trypsin precursor - Sus scrofa
+633,,true,5639,763.8794,1525.7446,2,-0.30,34.89,34.18,43.8 (M:43.8),5,,1,0,K.SSGSSYPSLLQCLK.A,Carbamidomethyl: 12,CID,134 - 147,P00761|TRYP_PIG,Trypsin precursor - Sus scrofa
+634,,true,5620,763.8794,1525.7446,2,-0.30,15.86,34.15,67.7 (M:67.7),5,,1,0,K.SSGSSYPSLLQCLK.A,Carbamidomethyl: 12,CID,134 - 147,P00761|TRYP_PIG,Trypsin precursor - Sus scrofa
+635,,true,6449,767.0536,2298.1678,3,-12.48,16.27,35.83,27.1 (M:27.1),1,,1,0,K.IITHPNFNGNTLDNDIMLIK.L,Oxidation: 17,CID,78 - 97,P00761|TRYP_PIG,Trypsin precursor - Sus scrofa
+636,,true,2864,829.4024,1656.7856,2,2.84,6.49,27.60,34.9 (M:34.9),1,,1,0,R.SGGGFSSGSAGIINYQR.R,,CID,13 - 29,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+637,,true,5047,837.3821,2509.1245,3,-0.03,13.70,32.85,44.6 (M:44.6),4,,1,0,K.EIETYHNLLEGGQEDFESSGAGK.I,,CID,450 - 472,P35527|K1C9_HUMAN,"Keratin, type I cytoskeletal 9 - Homo sapiens"
+638,,true,4913,837.3822,2509.1245,3,0.06,10.80,32.37,63.0 (M:63.0),4,,1,0,K.EIETYHNLLEGGQEDFESSGAGK.I,,CID,450 - 472,P35527|K1C9_HUMAN,"Keratin, type I cytoskeletal 9 - Homo sapiens"
+639,,true,4900,837.3822,2509.1245,3,0.06,16.64,32.33,51.2 (M:51.2),4,,1,0,K.EIETYHNLLEGGQEDFESSGAGK.I,,CID,450 - 472,P35527|K1C9_HUMAN,"Keratin, type I cytoskeletal 9 - Homo sapiens"
+640,,true,5012,837.3828,2509.1245,3,0.82,10.69,32.72,62.9 (M:62.9),4,,1,0,K.EIETYHNLLEGGQEDFESSGAGK.I,,CID,450 - 472,P35527|K1C9_HUMAN,"Keratin, type I cytoskeletal 9 - Homo sapiens"
+641,,true,4435,854.3897,1706.7649,2,-0.07,17.25,31.12,93.6 (M:93.6),12,,1,0,K.GSLGGGFSSGGFSGGSFSR.G,,CID,41 - 59,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+642,,true,4448,854.3897,1706.7649,2,0.01,28.60,31.15,96.1 (M:96.1),12,,1,0,K.GSLGGGFSSGGFSGGSFSR.G,,CID,41 - 59,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+643,,true,4177,854.3901,1706.7649,2,0.45,12.53,30.63,103.5 (M:103.5),12,,1,0,K.GSLGGGFSSGGFSGGSFSR.G,,CID,41 - 59,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+644,,true,4330,854.3903,1706.7649,2,0.65,9.14,30.90,99.5 (M:99.5),12,,1,0,K.GSLGGGFSSGGFSGGSFSR.G,,CID,41 - 59,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+645,,true,4316,854.3903,1706.7649,2,0.65,8.06,30.87,94.6 (M:94.6),12,,1,0,K.GSLGGGFSSGGFSGGSFSR.G,,CID,41 - 59,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+646,,true,4156,854.3903,1706.7649,2,0.71,7.62,30.60,98.7 (M:98.7),12,,1,0,K.GSLGGGFSSGGFSGGSFSR.G,,CID,41 - 59,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+647,,true,3747,854.3907,1706.7649,2,1.17,20.81,29.88,61.6 (M:61.6),12,,1,0,K.GSLGGGFSSGGFSGGSFSR.G,,CID,41 - 59,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+648,,true,3856,854.3908,1706.7649,2,1.27,23.55,30.07,65.1 (M:65.1),12,,1,0,K.GSLGGGFSSGGFSGGSFSR.G,,CID,41 - 59,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+649,,true,3876,854.3908,1706.7649,2,1.27,12.93,30.10,87.0 (M:87.0),12,,1,0,K.GSLGGGFSSGGFSGGSFSR.G,,CID,41 - 59,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+650,,true,3716,854.3911,1706.7649,2,1.65,38.30,29.82,64.5 (M:64.5),12,,1,0,K.GSLGGGFSSGGFSGGSFSR.G,,CID,41 - 59,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+651,,true,4031,854.3912,1706.7649,2,1.71,8.52,30.37,88.5 (M:88.5),12,,1,0,K.GSLGGGFSSGGFSGGSFSR.G,,CID,41 - 59,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+652,,true,4011,854.3920,1706.7649,2,2.72,30.43,30.33,101.2 (M:101.2),12,,1,0,K.GSLGGGFSSGGFSGGSFSR.G,,CID,41 - 59,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+653,,true,2791,858.9296,1715.8438,2,0.41,12.15,27.35,97.1 (M:97.1),15,,1,0,K.QISNLQQSISDAEQR.G,,CID,418 - 432,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+654,,true,3138,858.9296,1715.8438,2,0.47,14.30,28.38,102.3 (M:102.3),15,,1,0,K.QISNLQQSISDAEQR.G,,CID,418 - 432,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+655,,true,2728,858.9297,1715.8438,2,0.55,12.60,27.13,100.5 (M:100.5),15,,1,0,K.QISNLQQSISDAEQR.G,,CID,418 - 432,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+656,,true,2717,858.9297,1715.8438,2,0.55,11.42,27.10,118.0 (M:118.0),15,,1,0,K.QISNLQQSISDAEQR.G,,CID,418 - 432,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+657,,true,3040,858.9302,1715.8438,2,1.13,10.30,28.13,88.1 (M:88.1),15,,1,0,K.QISNLQQSISDAEQR.G,,CID,418 - 432,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+658,,true,3059,858.9302,1715.8438,2,1.13,10.31,28.17,90.2 (M:90.2),15,,1,0,K.QISNLQQSISDAEQR.G,,CID,418 - 432,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+659,,true,2643,858.9303,1715.8438,2,1.27,19.02,26.88,82.7 (M:82.7),15,,1,0,K.QISNLQQSISDAEQR.G,,CID,418 - 432,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+660,,true,2538,858.9305,1715.8438,2,1.49,17.06,26.58,46.7 (M:46.7),15,,1,0,K.QISNLQQSISDAEQR.G,,CID,418 - 432,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+661,,true,2567,858.9310,1715.8438,2,2.04,13.56,26.65,59.8 (M:59.8),15,,1,0,K.QISNLQQSISDAEQR.G,,CID,418 - 432,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+662,,true,2961,858.9310,1715.8438,2,2.06,12.49,27.88,110.9 (M:110.9),15,,1,0,K.QISNLQQSISDAEQR.G,,CID,418 - 432,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+663,,true,2486,883.3723,1764.7274,2,1.45,22.29,26.43,136.7 (M:136.7),7,,1,0,R.FSSCGGGGGSFGAGGGFGSR.S,Carbamidomethyl: 4,CID,46 - 65,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+664,,true,2431,883.3725,1764.7274,2,1.73,30.08,26.30,90.0 (M:90.0),7,,1,0,R.FSSCGGGGGSFGAGGGFGSR.S,Carbamidomethyl: 4,CID,46 - 65,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+665,,true,2281,883.3732,1764.7274,2,2.48,12.35,25.83,39.2 (M:39.2),7,,1,0,R.FSSCGGGGGSFGAGGGFGSR.S,Carbamidomethyl: 4,CID,46 - 65,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+666,,true,2171,883.3733,1764.7274,2,2.61,15.41,25.58,26.6 (M:26.6),7,,1,0,R.FSSCGGGGGSFGAGGGFGSR.S,Carbamidomethyl: 4,CID,46 - 65,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+667,,true,2154,883.3733,1764.7274,2,2.61,16.84,25.55,92.2 (M:92.2),7,,1,0,R.FSSCGGGGGSFGAGGGFGSR.S,Carbamidomethyl: 4,CID,46 - 65,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+668,,true,2568,883.3736,1764.7274,2,2.95,17.66,26.65,56.9 (M:56.9),7,,1,0,R.FSSCGGGGGSFGAGGGFGSR.S,Carbamidomethyl: 4,CID,46 - 65,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+669,,true,2539,883.3736,1764.7274,2,2.95,9.36,26.60,40.1 (M:40.1),7,,1,0,R.FSSCGGGGGSFGAGGGFGSR.S,Carbamidomethyl: 4,CID,46 - 65,P04264|K2C1_HUMAN,"Keratin, type II cytoskeletal 1 - Homo sapiens"
+670,,true,8168,899.0101,1796.0044,2,0.76,10.94,39.48,39.8 (M:39.8),3,,1,0,R.NVQALEIELQSQLALK.Q,,CID,371 - 386,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+671,,true,8068,899.0111,1796.0044,2,1.87,15.14,39.27,57.4 (M:57.4),3,,1,0,R.NVQALEIELQSQLALK.Q,,CID,371 - 386,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+672,,true,8052,899.0111,1796.0044,2,1.87,19.57,39.23,49.7 (M:49.7),3,,1,0,R.NVQALEIELQSQLALK.Q,,CID,371 - 386,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+673,,true,5229,919.9616,1837.9071,2,0.87,13.76,33.30,25.6 (M:25.6),1,,1,0,K.SISISVAGGGGGFGAAGGFGGR.G,,CID,71 - 92,P35908|K22E_HUMAN,"Keratin, type II cytoskeletal 2 epidermal - Homo sapiens"
+674,,true,5488,998.9864,1995.9637,2,-2.74,14.82,33.87,94.6 (M:94.6),5,,1,0,K.ELTTEIDNNIEQISSYK.S,,CID,346 - 362,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+675,,true,5605,998.9874,1995.9637,2,-1.69,24.12,34.12,104.4 (M:104.4),5,,1,0,K.ELTTEIDNNIEQISSYK.S,,CID,346 - 362,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+676,,true,5382,998.9883,1995.9637,2,-0.80,18.26,33.60,91.2 (M:91.2),5,,1,0,K.ELTTEIDNNIEQISSYK.S,,CID,346 - 362,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+677,,true,5362,998.9885,1995.9637,2,-0.66,13.32,33.57,62.9 (M:62.9),5,,1,0,K.ELTTEIDNNIEQISSYK.S,,CID,346 - 362,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+678,,true,5031,1041.9870,2081.9575,2,0.88,12.56,32.78,152.4 (M:152.4),9,,1,0,R.AETECQNTEYQQLLDIK.I,Carbamidomethyl: 5,CID,423 - 439,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+679,,true,4972,1041.9873,2081.9575,2,1.16,8.67,32.55,116.6 (M:116.6),9,,1,0,R.AETECQNTEYQQLLDIK.I,Carbamidomethyl: 5,CID,423 - 439,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+680,,true,4967,1041.9873,2081.9575,2,1.16,9.67,32.52,157.2 (M:157.2),9,,1,0,R.AETECQNTEYQQLLDIK.I,Carbamidomethyl: 5,CID,423 - 439,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+681,,true,5120,1041.9873,2081.9575,2,1.21,13.29,33.07,87.8 (M:87.8),9,,1,0,R.AETECQNTEYQQLLDIK.I,Carbamidomethyl: 5,CID,423 - 439,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+682,,true,5128,1041.9873,2081.9575,2,1.21,12.44,33.08,53.9 (M:53.9),9,,1,0,R.AETECQNTEYQQLLDIK.I,Carbamidomethyl: 5,CID,423 - 439,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+683,,true,4877,1041.9891,2081.9575,2,2.95,6.99,32.27,95.4 (M:95.4),9,,1,0,R.AETECQNTEYQQLLDIK.I,Carbamidomethyl: 5,CID,423 - 439,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+684,,true,4868,1041.9891,2081.9575,2,2.95,12.61,32.23,128.4 (M:128.4),9,,1,0,R.AETECQNTEYQQLLDIK.I,Carbamidomethyl: 5,CID,423 - 439,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+685,,true,4780,1041.9897,2081.9575,2,3.54,29.18,31.98,29.3 (M:29.3),9,,1,0,R.AETECQNTEYQQLLDIK.I,Carbamidomethyl: 5,CID,423 - 439,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+686,,true,5038,1041.9898,2081.9575,2,3.60,10.41,32.82,129.2 (M:129.2),9,,1,0,R.AETECQNTEYQQLLDIK.I,Carbamidomethyl: 5,CID,423 - 439,P13645|K1C10_HUMAN,"Keratin, type I cytoskeletal 10 - Homo sapiens"
+687,,true,6842,1048.0240,2094.0303,2,1.46,19.04,36.57,105.8 (M:105.8),3,,1,0,R.QEIECQNQEYSLLLSIK.M,Carbamidomethyl: 5,CID,428 - 444,P35527|K1C9_HUMAN,"Keratin, type I cytoskeletal 9 - Homo sapiens"
+688,,true,6859,1048.0240,2094.0303,2,1.46,17.19,36.60,89.0 (M:89.0),3,,1,0,R.QEIECQNQEYSLLLSIK.M,Carbamidomethyl: 5,CID,428 - 444,P35527|K1C9_HUMAN,"Keratin, type I cytoskeletal 9 - Homo sapiens"
+689,,true,6722,1048.0248,2094.0303,2,2.22,18.65,36.35,40.9 (M:40.9),3,,1,0,R.QEIECQNQEYSLLLSIK.M,Carbamidomethyl: 5,CID,428 - 444,P35527|K1C9_HUMAN,"Keratin, type I cytoskeletal 9 - Homo sapiens"
